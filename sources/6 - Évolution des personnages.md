@@ -1,7 +1,7 @@
 # Évolution des personnages
 
 > *« Qui aurait cru que je marcherais un jour sur le sol de Titan, moi qui suis né à une époque ou même la lune redevenait inaccessible. »*
-> 
+>
 > Feyn, récupérateur spatial
 
 Beaucoup de joueurs aiment jouer des séries, notamment parce que l’histoire peut y être beaucoup plus développée, mais aussi parce qu’ils aiment voir leur personnage évoluer et progresser.
@@ -30,8 +30,8 @@ Une intrigue doit avoir un objectif et l’accomplissement de celui-ci doit just
 Ici encore, l’objectif est contraint par l’univers et l’histoire de la série et doit donc être approuvé par le meneur.
 
 >> Les intrigues n’ont pas besoin de nécessiter de grands exploits pour être accomplies, ça peut même être un moyen de décrire la vie quotidienne de votre personnage ou pour remplir les creux, pendant un voyage spatial par exemple.
->> 
->> De plus, l’objectif peut relever de la volonté de votre personnage ou de la « voie tracée par le destin ». Toutefois, dans un jeu comme Solaires traitant du transhumanisme et plus particulièrement de la transformation choisie de l'être, la première option est sans doute la plus intéressante des deux. Mais pour un jeu mettant en avant la mythologie et les prophéties, la seconde option pourrait être plus adaptée.
+>>
+>> De plus, l’objectif peut relever de la volonté de votre personnage ou de la « voie tracée par le destin ». Toutefois, dans un jeu comme Solaires traitant du transhumanisme et plus particulièrement de la transformation choisie de l’être, la première option est sans doute la plus intéressante des deux. Mais pour un jeu mettant en avant la mythologie et les prophéties, la seconde option pourrait être plus adaptée.
 
 ## Les étapes
 
@@ -60,7 +60,7 @@ La seconde méthode permet de ne pas prendre de temps sur la séance. Si la tabl
 
 >> Comme vous pouvez le remarquer, ce système est équivalent à donner un « point de progression » aux personnages à la fin de chaque séance en considérant que le coût des améliorations est équivalent au nombre d’étapes. Toutefois, cette méthode donne plus de sens à la progression du personnage et peut contribuer à lui donner plus de vie.
 
-En fonction du jeu, et plus particulièrement des parties qui seront jouées avec, l'une des deux méthodes peut être préférable. Dans le cas des jeux bac à sable où l'histoire est dirigée par les objectifs personnels des personnages qui agissent de façon proactive, nous vous conseillons d'utiliser les intrigues de personnages pour « matérialiser » ces fameux objectifs personnels. Dans le cas des jeux à mission où il est préférable que les personnages ne s'éparpillent pas, la seconde méthode sera sans doute la mieux venue.
+En fonction du jeu, et plus particulièrement des parties qui seront jouées avec, l’une des deux méthodes peut être préférable. Dans le cas des jeux bac à sable où l’histoire est dirigée par les objectifs personnels des personnages qui agissent de façon proactive, nous vous conseillons d’utiliser les intrigues de personnages pour « matérialiser » ces fameux objectifs personnels. Dans le cas des jeux à mission où il est préférable que les personnages ne s’éparpillent pas, la seconde méthode sera sans doute la mieux venue.
 
 ## Terminer une intrigue
 
@@ -74,10 +74,10 @@ En revanche, il peut arriver que vous ne souhaitiez pas poursuivre l’intrigue 
 
 ## Exemples d’intrigues
 
-Il peut être intimidant pour un joueur de construire une intrigue lui-même. Bien sûr, le meneur et les autres joueurs peuvent l’aider et de façon générale nous conseillons l’entraide à la table. En plus de cette potentielle aide, nous vous présentons quelques idées d’intrigues à titre d’exemple. Évidemment, vous ne devriez pas vous contenter de les reprendre tel quel, et nous vous encourageons à construire des intrigues originales. De plus ces exemples sont issus de Solaires, si vous utilisez .
+Il peut être intimidant pour un joueur de construire une intrigue lui-même. Bien sûr, le meneur et les autres joueurs peuvent l’aider et de façon générale nous conseillons l’entraide à la table. En plus de cette potentielle aide, nous vous présentons quelques idées d’intrigues à titre d’exemple. Évidemment, vous ne devriez pas vous contenter de les reprendre tel quel, et nous vous encourageons à construire des intrigues originales. De plus ces exemples sont issus de Solaires, si vous utilisez.
 
 >> Chaque exemple commence par son objectif. Nous précisons ensuite les types d’éléments qui pourrait être amélioré/obtenus par ces intrigues, avant de lister les étapes.
->> 
+>>
 >> De plus, si nous avons listé toutes les étapes à titre d’exemple, seule la première est nécessaire lors de la création de l’intrigue.
 
 **Obtenir une certification** :
@@ -101,7 +101,7 @@ Il peut être intimidant pour un joueur de construire une intrigue lui-même. Bi
 * pour obtenir une relation dans une organisation avec un score de 2 ;
 * étape 1 : *se faire remarquer par l’organisation* ;
 * étape 2 : *se faire recruter par l’organisation et y effectuer une tâche*.
-* étape 3 : *rendre un service permettant de gagner la confiance de l'organisation*.
+* étape 3 : *rendre un service permettant de gagner la confiance de l’organisation*.
 
 **Sauver un VIP** :
 * pour améliorer une relation de 2 à 3 ;
