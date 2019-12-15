@@ -11,3 +11,6 @@ Vous devriez trouver une copie de cette licence avec ces travaux. Si ce n'est pa
 
 Auteur initial et mainteneur du projet :
 * Sylvain « Greewi » Dumazet
+
+Conception additionnelle :
+* Morvan
