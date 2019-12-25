@@ -121,7 +121,7 @@ Notez que vous pouvez effectuer une modification scénaristique pour décrire vo
 
 Les règles de résolution gèrent toutes les situations et actions que vous rencontrerez. Malgré tout, il existe quelques cas où le meneur peut rechercher des règles plus précises :
 * **Action collaborative** : il s’agit des actions où plusieurs personnages collaborent. Dans ce cas, l’action est résolue normalement par l’initiateur, mais ceux qui l’aident peuvent lui prêter un élément. Les règles restent les mêmes : deux éléments maximums et au moins un des deux éléments doit être typique s’il y en a plusieurs.
-* **Action de groupe à échec individuel** : dans de nombreux cas, le groupe de personnage veut effectuer une action qui doit être réussie par tous les personnages. *Par exemple, escalader une falaise, contourner une patrouille furtivement, garder son sang froid dans une situation critique, etc.* Il est naturel de vouloir un jet pour chaque personnage, mais ceci réduit considérablement les chances de réussite de l’action globale. Nous vous proposons plutôt de procéder comme pour une action collaborative, à la différence près que les deux éléments éventuels ne doivent pas provenir du même personnage. En cas d’échec, l’un des personnages dévisse, se fait repérer, panique, etc. Le meneur devrait choisir de préférence celui dont l’échec entrainera la situation la plus intéressante.
+* **Action de groupe à échec individuel** : dans de nombreux cas, le groupe de personnage veut effectuer une action qui doit être réussie par tous les personnages. *Par exemple, escalader une falaise, contourner une patrouille furtivement, garder son sang froid dans une situation critique, etc.* Pour ce type de jet, nous vous proposons de faire faire un jet à chaque personnage. Si la majorité réussi l'action, le groupe réussi. Sinon, le groupe échoue et l’un des personnages dévisse, se fait repérer, panique, etc. Le meneur devrait choisir de préférence celui dont l’échec entrainera la situation la plus intéressante parmi les personnages qui ont échoué le jet.
 * **Action en réaction** : dans certains cas, il est possible qu’une action ne soit pas à l’initiative d’un personnage et que ce dernier doive réagir à un événement. Par exemple, des adversaires viennent de lui tendre une embuscade et le meneur souhaite que le personnage réagisse. Dans ces situations, même si l’action n’est pas à l’initiative du joueur, le processus reste le même : le joueur indique ce que son personnage va essayer de faire en réaction et l’action est résolue comme habituellement.
 
 ## Un exemple issu de Solaires
@@ -139,6 +139,23 @@ Sophie propose d’utiliser son *Camouflage thermo-optique (2)* pour cette actio
 La difficulté (**-2**) et les deux éléments (**2** et **3**) choisis, le score à battre est de **3** (2+3-2). Sophie lance les trois dés qui font **5**, **2** et **3**. Elle conserve donc deux dés : c’est une réussite.
 
 Justine décrit alors ce qui se produit : aidé par Downlink qui brouille sa présence sur le réseau, Razors parvient à pénétrer dans le chantier spatial. Elle y aperçoit leur suspect qui semble travailler sur le cablage d’une batterie de navette.
+
+### Règle optionnelle : Aléatoire dans l'environnement
+
+Durant une partie typique, vous ne lancerez jamais les dés. Pourtant, dans certains cas, vous pouvez vouloir recourir à l'aléatoire pour déterminer le déroulement de certains événements sur lesquels les PJ n’ont pas de prise.
+
+Comme pour la résolution des actions, le jet utilisera les trois dés comparés à un score donné. Ici, le calcul du score à battre est très simple :
+* 2, si vous préférez que l'élément soit plutôt en défaveur des personnages joueurs ;
+* 3, si vous n'avez vraiment aucune préférence scénaristique ;
+* 4, si vous préféreriez que l'élément soit plutôt en faveur des personnages joueurs.
+
+>> Notez qu'il n'y a pas d'autre seuil de score à battre : si vous souhaitez ajouter d'autres paliers, c'est que vous avez déjà fait votre choix en réalité. Nous vous conseillons plutôt de l'appliquer.
+
+S'il reste au moins deux dés, alors le résultat sera favorable aux personnages joueurs, sinon il leur sera défavorable.
+
+*Par exemple, une bataille spatiale entre des forces de Suan et Aesir fait rage à l'extérieur, ce pendant que les personnages joueurs tentent de démêler la situation diplomatique. Le meneur souhaite savoir quel sens la bataille prend. Il utilise donc cette règle et choisi un score de 3, n'ayant pas d'envie scénaristique particulière. Il lance les dés et fait 4, 3 et 1 : il reste deux dés. Comme les personnages joueurs sont en meilleurs termes avec Suan, la bataille commence donc à tourner en faveur du camp de ceux-ci et l'un des vaisseaux d'Aesir a été sévèrement touché.*
+
+>> Vous pourriez être tentés d'utiliser cette règle pour faire agir les adversaires des personnages des joueurs, par exemple lors d'une embuscade qui est tendue à ces derniers. Ce n'est que rarement une bonne idée. Si l'action d'un personnage non-joueur agit sur le personnage d'un joueur, faites faire un jet d'action au joueur en réaction.
 
 ### Règle optionnelle : Jets en opposition
 

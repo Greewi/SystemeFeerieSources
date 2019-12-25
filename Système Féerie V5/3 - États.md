@@ -45,10 +45,16 @@ Cet effet négatif doit évidemment être en relation avec l’état. Il peut s�
 
 Par conception, il n’y a pas de liste exhaustive et définitive des états. Toutefois voici une courte liste d’exemples :
 * **À la dérive (3)** : le personnage dérive dans l’espace ou dans une section en zéro-g sans la possibilité de se raccrocher à quelque chose ;
+* **Béni (2)** : dans un univers fantastique le personnage a reçu la bénédiction d'une entité suppérieure ;
 * **Blessé (2)** : le personnage a été blessé ;
+* **Concentré (2)** : le personnage s'est entièrement concentré sur sa tâche au point d'en oublier une partie du reste du monde ;
 * **Désorienté (2)** : le personnage est désorienté spatialement ou parce qu’il n’est pas acclimaté à sa nouvelle enveloppe ;
+* **Dopé (2)** : le personnage a pris une substance qui augmente certaines de ces capacités ;
+* **En alerte (2)** : le personnage est particulièrement vigilant ;
+* **Encouragé (1)** : le personnage a reçu des encouragements pour affronter une épreuve ;
 * **Endommagé (2)** : l’enveloppe du personnage a été endommagé ou une partie de son noyau pour une IA ;
 * **Isolé (2)** : le personnage est isolé et ne peut pas communiquer avec les autres, notamment s’il est victime d’un brouillage ;
 * **Malade (2)** : le personnage a contracté une maladie ;
 * **Nauséeux (1)** : le personnage a la nausée après avoir été éjecté de réalité virtuelle ou à cause d’un changement de gravité ;
-* **Paniqué (3)** : le personnage a perdu son sang froid et cède à la panique.
+* **Paniqué (3)** : le personnage a perdu son sang froid et cède à la panique ;
+* **Surchargé (2)** : le personnage possède des ressources excédentaires.
