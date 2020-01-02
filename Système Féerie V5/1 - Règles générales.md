@@ -23,7 +23,8 @@ Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps dé
 * **personnage joueur (PJ)** : les personnages contrôlés par les joueurs ;
 * **personnage non-joueur (PNJ)** : les personnages qui ne sont pas contrôlés par les joueurs et que, donc, le MJ gère ;
 * **scénario** : la partie préparée de l’histoire qu’habituellement seul le meneur connaît ;
-* **D6** : un dé à six faces. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotiques (par exemple, des dés à vingt faces qui seraient notés D20).
+* **D6** : un dé à six faces. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotiques (par exemple, des dés à vingt faces qui seraient notés D20) ;
+* **Élement** : une information du personnage associée à un score allant de 0 à 3 qui sert notamment pour résoudre les actions et faire des modifications scénaristiques.
 
 >> Si tout ceci vous semble encore nébuleux, voici un court extrait d’une partie de jeu de rôles.
 >>
