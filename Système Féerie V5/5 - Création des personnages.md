@@ -39,10 +39,12 @@ Voici les catégories les plus courantes et leurs échelles d’évaluation.
 * **Dévoué (3)** : l’entité est prête à s’engager complètement pour le personnage.
 
 **L’équipement** représente le matériel usuel du personnage. L’échelle d’évaluation de ces éléments est la suivante :
-* **Ordinaire ou Standard (0)** : le matériel standard, qu’il soit spécialisé ou non, que l’on trouve dans colonies.
+* **Ordinaire ou Standard (0)** : le matériel standard, qu’il soit spécialisé ou non.
 * **Amélioré ou spécial (1)** : le matériel amélioré, modifié ou personnalisé que possèdent les spécialistes.
 * **À la pointe de la technologie (2)** : le matériel à la pointe de la technologie, ce qui se fait de mieux.
+* **Magique (2, variante)** : la matériel est échanté ou magique.
 * **Prochaine génération (3)**. : le matériel expérimental destiné à remplacer le matériel actuel lorsqu’il sera finalisé. On trouve principalement des prototypes ou les outils de certains technophiles les plus investis.
+* **Artefact légendaire (3, variante)** : le matériel est un artefact légendaire et unique et possède une grande puissance.
 
 >> Nous indiquons ici des correspondances pour des scores de 0. Normalement, il n’est pas utile de noter des éléments avec un tel score sur sa fiche. En particulier, il n’est pas nécessaire de noter le matériel ordinaire des personnages, car on suppose qu’ils disposent de leur matériel de travail sauf circonstances particulières.
 
@@ -54,6 +56,10 @@ Voici les catégories les plus courantes et leurs échelles d’évaluation.
 ## Construire le groupe
 
 Avant de procéder à la création dans le détail, nous vous recommandons de vous intéresser à la création du groupe. En effet, normalement, les personnages vont former un groupe ou une équipe lors de leur aventure et il est sans doute nécessaire de porter une attention toute aussi importante à la composition du groupe qu’à la création des personnages individuellement.
+
+>> Nous vous conseillons de considérer le groupe comme une entité à part entière et de lui créer une fiche pour noter ses attributs.
+>>
+>> En option, vous pouvez aussi construire la carte des relations entres les personnages. Cela peut vous aider à lier les personnages entre eux et donne un outil supplémentaire au meneur.
 
 La première chose à faire est de fixer la nature du groupe et son objectif. Par exemple, dans *Solaires* la nature du groupe peut être *« un solar wardner et son équipe »* ou encore *« l’équipage d’un vaisseau d’intervention »*. L’objectif du groupe pourrait être *« Servir une corporation »*, *« Résoudre les problèmes de clients »*, etc.
 
@@ -85,7 +91,7 @@ Enfin, notez que les personnages construits par ces différentes méthodes sont 
 >>
 >> Par exemple pour *Solaires*, le joueur commence par choisir les rôles de son personnage, puis il choisit la nature de son personnage (Intelligence et Enveloppe) avant de choisir ses carrières, relations, équipement et traits. En dehors de la dernière catégorie, nous avons donné au joueur des listes d’éléments associée à de courtes descriptions. Une fois qu’il a choisi ses éléments, il peut les évaluer. Ensuite nous lui proposons de construire l’identité du personnage (nom, profession, etc.), de le décrire physiquement (ainsi que son avatar), de choisir des opinions, de définir sa motivation et, pour structure les carrières et relations dans le temps, de construire son histoire.
 >>
->> Pour simplifier l’accès au jeu, les premières étapes sont des choix dans des listes. Bien qu’elles soient ouvertes, c’est-à-dire que vous pouvez choisir des éléments qui ne sont pas dans la liste du moment que le MJ l’accepte, l’intérêt de ces listes est de proposer un premier aperçu du jeu au joueur en lui montrant des aspects de l’univers succinctement. Dans ces premières étapes, essayez toujours de partir des rôles et de préciser en premier ce que le personnage peut, ou sait, faire.
+>> Pour simplifier l’accès au jeu, les premières étapes sont des choix dans des listes. Bien qu’elles soient ouvertes, c’est-à-dire que vous pouvez choisir des éléments qui ne sont pas dans la liste du moment que les participants l’acceptent, l’intérêt de ces listes est de proposer un premier aperçu du jeu au joueur en lui montrant des aspects de l’univers succinctement. Dans ces premières étapes, essayez toujours de partir des rôles et de préciser en premier ce que le personnage peut, ou sait, faire.
 >>
 >> Essayez aussi tant que possible d’éviter des allers et retours entre les étapes en vous assurant que les informations utiles pour une étape sont définies avant. Par exemple, définissez les carrières avant l’équipement, car le matériel d’un personnage dépend principalement de son métier dans la plupart des jeux. Notez toutefois que les étapes de descriptions peuvent produire de nouveaux éléments à ajouter dans les catégories correspondantes. En fonction de la probabilité de ceci, il est possible que vous souhaitiez retarder l’étape d’évaluation.
 >>
@@ -112,16 +118,6 @@ Enfin, notez que les personnages construits par ces différentes méthodes sont 
 >> Dans la pratique cette méthode, bien qu’extrêmement simple sur le papier, demande au joueur une bonne connaissance de l’univers du jeu et surtout une description suffisemment complète pour permettre de remplir toute la fiche. Pour cette raison, nous vous conseillons de découper cette discrétion en plusieurs parties. Par exemple : description physique, psychologie du personnage, histoire, etc. Là encore, le découpage permet de mettre l’accent sur certains aspects du personnage et devrait être fait en fonction du jeu.
 >>
 >> Notez que bien que cette méthode soit parfaitement viable et fonctionnelle, elle reste sans doute la plus difficile à employer. Et puis avez-vous vraiment envie de commencer une séance en demandant : « Sortez une feuille et décrivez votre personnage, vous avez une demi-heure. » ?
-
-## L’équilibrage des personnages
-
-L’équilibrage des personnages s’effectue à deux moments durant la création des personnages : lors de la sélection des rôles et lors de l’évaluation des scores des éléments.
-
-Le premier mécanisme permet de répartir les rôles tout en évitant qu’un personnage occupe six rôles pendant que d’autres n’en géreraient qu’un. Du point de vue de l’équilibrage entre les personnages, c’est sans doute le moment le plus important. Par la suite de la création de leur personnage, les joueurs doivent s’engager à rendre leurs personnages capables dans les rôles qu’ils ont choisis sans empiéter significativement dans les autres.
-
-Le choix des carrières et des autres éléments permettent d’implémenter ces rôles en les concrétisant : un personnage avec le rôle Espace pourrait par exemple prendre la carrière Astronaute et du matériel utile à cette profession. Mais ce n’est pas suffisant. Il reste nécessaire qu’il dispose d’un score suffisamment élevé pour parvenir à effectuer les actions dépendant de ce rôle.
-
-C’est le second point de l’équilibrage du personnage : comment s’assurer qu’il est capable de gérer les rôles qu’on lui a attribués sans pour autant empiéter significativement sur les autres rôles ? C’est assez simple : prenez une action typique du rôle concerné et regardez les éléments du personnage qui seraient appropriés pour sa réalisation : si la somme des deux meilleurs fait 5 ou 6, le personnage est apte. De la même façon, pour un rôle qui n’est pas supposé être sa spécialité, cette somme des deux meilleurs éléments ne devrait pas dépasser 2 ou 3.
 
 >> ### Règles optionnelles : limiter les scores
 >> Ceci pris en compte, vous remarquerez que certains joueurs sont quand même tentés d’affecter un score de 3 à tout ce qui touche de près ou de loin à leurs rôles. C’est une habitude qui vient d’autres jeux où l’optimisation du personnage est une composante forte du jeu. Ce n’est pas le cas pour le *Système Féerie* : ici la création du personnage n’est pas un exercice d’optimisation mais vise à construire des personnages qui auraient leur place dans un livre ou un film.

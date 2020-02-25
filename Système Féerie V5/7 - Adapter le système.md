@@ -26,19 +26,21 @@ Il est important pour le créateur d’un jeu de tenir compte de ces restriction
 
 ## Adapter la création des personnages
 
-La majorité du travail d’adaptation du *Système Féerie* se situe au niveau de la création de personnage. Si vous utilisez ce système pour improviser un oneshot, nous vous recommandons d’utiliser des prétirés, cela vous fera gagner beaucoup de temps.
+La majorité du travail d’adaptation du *Système Féerie* se situe au niveau de la création de personnage. Si vous utilisez ce système pour improviser un oneshot, nous vous recommandons d’utiliser des prétirés, cela vous fera gagner beaucoup de temps. Même si ce n'est pas pour une partie improvisée, nous vous recommandons aussi très vivement de proposer des prétirés et même mieux : des groupes de pré-tirés. Ce sera la principale source d'inspiration pour les joueurs et meneurs qui ne connaissent pas nécessairement bien votre univers.
 
-Pour commencer, déterminez les rôles, c’est-à-dire les aspects d’une aventure dans le jeu et les catégories d’éléments avec leurs éventuelles échelles d’évaluation. Cette étape est importante car elle met l’accent sur les éléments à mettre en avant du jeu.
+Pour continuer, vous devez déterminer les rôles, c’est-à-dire les aspects d’une aventure dans le jeu et les catégories d’éléments avec leurs éventuelles échelles d’évaluation. Cette étape est importante car elle met l’accent sur les éléments à mettre en avant du jeu et donne au jeu sa saveur et son orientation.
 
 >> Par exemple, dans *Solaires*, en séparant les modifications et les logiciels de l’équipement, nous avons mis l’accent sur cet aspect donnant plus d’importance au thème du transhumanisme dans le jeu. En revanche, nous n’avons pas mis de catégorie spécifique pour l’armement et les protections, car nous ne voulions pas donner une importance particulière au combat. De la même façon pour les rôles, le combat a été résumé en un seul aspect.
 >>
->> Par exemple, si un jeu souhaite mettre l’accent sur le combat, il peut créer des catégories d’éléments dédiées (Armement et protections ?), et peut-être subdiviser le rôle combat (Attaque, Défense et Soutien ?).
+>> Deuxième exemple, si un jeu souhaite mettre l’accent sur le combat, il peut créer des catégories d’éléments dédiées (Armement et protections ?), et peut-être subdiviser le rôle combat (Attaque, Défense et Soutien ?).
 >>
 >> Autre exemple, pour les Contes de l’Entremondes, les fées possèdent chacune un domaine dans l’Entremondes. Ce domaine est très important à leurs yeux, notamment pour leur magie. Aussi, nous avons créé une catégorie Domaine pour contenir les éléments qui le définissent.
 
-Ensuite, déterminez la, ou les, méthodes de création de personnage que vous souhaitez utiliser. La méthode guidée est souvent la plus rapide à l’exécution pour des nouveaux joueurs, mais celle à base de questionnaire permet d’aller bien au-delà des simples éléments et est rapide à mettre en place. La méthode descriptive est celle qui demande le moins d’effort pour le concepteur du jeu, mais, honnêtement, elle ne devrait servir que pour les personnages non-joueurs.
+Considérons la méthode de création des personnages en elle-même. La méthode descriptive est théoriquement la plus rapide à mettre en œuvre et celle pour laquelle les règles d'évaluation des éléments ont été concues. Gardez toutefois à l'esprit que cette méthode demande aux joueurs un minimum de connaissance de l'univers du jeu. Pour les aider, nous renouvellons notre conseil : donnez-leur des pré-tirés ou des archétypes en exemple, qu'ils sachent à quoi ressemble un personnage dans votre jeu.
 
->> Là encore, vous devriez chercher à déterminer ce qui est important pour définir vos personnage. Vous trouverez des indications plus précises dans le chapitre *Création des personnages*.
+Ce conseil reste valable pour les deux autres méthodes : la méthode par questionnaire, qui permet de contrôler le niveau de détail d'un personnage, et la méthode guidée qui ressemble plus aux méthodes d'autres jeux mais qui peut enfermer les participants dans des listes qui n'ont pourtant pas vocation à être exhaustives.
+
+Et surtout, n'oubliez pas la création du groupe de personnage !
 
 ## Gérer les particularités de l’univers en jeu
 
@@ -63,3 +65,16 @@ Le système tel que décrit dans ce manuel reste froid sans un contexte. N’hé
 Enfin, quelques règles sont optionnelles. Il est recommandé de statuer sur chacune d’entre elle. Peut-être voulez-vous en interdire certaines, les rendre obligatoires ou encore les conserver dans cet état pour laisser le choix aux groupes de joueurs ?
 
 Les autres règles sont aussi modifiables : aussi bien dans leurs paramétrages, par exemple les coûts en points de personnages, que dans leur fonctionnement. Même si ces règles ne sont pas optionnelles, vous pouvez choisir d’en supprimer certaines. En fait, la nature optionnelle de certaines règles signifie simplement qu’on laisse aux joueurs et aux meneurs le choix de les utiliser, ou non.
+
+## L’équilibrage des personnages
+
+Pour le Système Féerie, l'équilibrage des personnages désigne principalement deux choses :
+* la protection des niches des différents personnages d'un groupe ;
+* l'équilibre du temps « à l'écran » des personnages.
+
+Le Système Féerie ne visant pas des jeux où le combat est l'aspect principal, il n'y a donc pas de notion de puissance des personnages : ceux qui occupent la niche du combat doivent être bon dans cette niche, les autres non. Il en va de même des autres niches de votre jeu, représentées par les rôles choisis au moment de créer le groupe des personnages.
+
+Il est donc important de découper ces rôles de façon pertinente en gardant en tête leur importance relative dans une aventure type. Par exemple, si votre jeu s'articule entièrement autour de l'espionnage et que vous souhaitez mettre en scène différents types d'espions, vous pouriez vouloir créer des rôles en fonction des approches des personnages. Par exemple, la furtivité, le piratage informatique, l'ingénerie sociale, etc.
+
+Concernant l'équilibre du temps « à l'écran », nous nous intéresserons surtout aux niches présentes dans le scénario et leur répartition dans le groupe des personnages joueurs. Par exemple, si un scénario donné ne propose que des situations s'adressant à deux des niches du jeu et que l'un des personnages n'en occupe aucune de celle-ci, il peut se retrouver sans aucune occasion d'occuper du temps « à l'écran » lors de la partie.
+

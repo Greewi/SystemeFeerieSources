@@ -19,6 +19,7 @@ Comme les autres éléments, vous devez leur donner un score en fonction des est
 * **Critique (3)** : l’état incapacite le personnage ou lui fait courir un risque fatal à court terme. *Par exemple : Hémorragie importante, Noyau piraté.*
 
 ## Obtenir et perdre un état
+
 Lorsque votre personnage rate une action dangereuse ou s’il doit subir un effet secondaire négatif, il peut recevoir un état. Dans certains cas, il est possible que ce soit la conséquence d’une action d’un autre personnage.
 
 *Par exemple, Feyn, un astronaute, est accompagné de Thoss, un soldat, lors d’une sortie spatiale. Au moment de sortir, Thoss rate son action et décroche le lien de Feyn par erreur. Feyn obtient l’état « Décroché (2) ».*
@@ -33,7 +34,7 @@ Pour les états les plus graves, il peut même être intéressant de dédier une
 
 ## Effets des états
 
-Les états ne sont pas seulement des mots clés décrivant la situation de votre personnage. Ils ont aussi un effet sur vos actions. Tout d’abord, si un état est susceptible d’aider dans une action, vous pouvez l’utiliser comme n’importe quel autre type d’élément.
+Les états ne sont pas seulement des mots clés décrivant la situation de votre personnage. Ils ont aussi un effet sur vos actions. Tout d’abord, si un état est susceptible d’aider votre personnage dans une action, vous pouvez l’utiliser comme n’importe quel autre type d’élément.
 
 Si un de vos états est potentiellement handicapant pour une action, indiquez-le au meneur. Ensuite, lors de la résolution de l’action, si vous ne conservez pas strictement plus de dés que le score de l’état, l’état déclenche un effet secondaire négatif en plus du résultat habituel de l’action.
 

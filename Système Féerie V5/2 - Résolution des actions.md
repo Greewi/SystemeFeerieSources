@@ -52,7 +52,7 @@ L’intérêt scénaristique est évalué sur l’intérêt du résultat de l’
 * Échec intéressant (-2) : l’échec de cette action conduira à une situation plus intéressante que sa réussite ;
 * Devrait échouer (-4) : la réussite de cette action engendrerait une situation particulièrement inintéressante.
 
-Notez que si le meneur juge une action impossible (ou triviale), il ne fait pas faire un jet de dés : l’action échoue (ou réussie) automatiquement sans Effet secondaire. Ce sera aussi le cas si le score à battre par le joueur supérieur est à 5 ou inférieur à 1.
+Notez que si le meneur juge une action impossible (ou triviale), il ne fait pas faire un jet de dés : l’action échoue (ou réussie) automatiquement sans Effet secondaire. Ce sera aussi le cas si le score à battre par le joueur est supérieur à 5 ou inférieur à 1.
 
 *Exemple : Nicolas qui joue Downlink souhaite pirater le cerveau électronique d’un des robots de sécurité que Razors a abattus. Justine, la meneuse, estime qu’il s’agit d’une action Complexe (0) car elle demande un minimum de spécialisation mais ne devrait pas être trop difficile pour un spécialiste. Elle estime aussi que la réussite est intéressante (+2) car cette action pourra ouvrir de nouvelles pistes aux personnages. Le score de la difficulté est donc de 2 (0+2).*
 
@@ -64,13 +64,13 @@ Vous pouvez vous servir d’éléments qui ne sont pas directement possédés pa
 
 Si l’action est typique pour cet élément – par exemple soigner quelqu’un avec la carrière *« Médecin »* ou pirater une porte avec un *« Décodeur »* – vous pouvez choisir un second élément. Celui-ci n’a pas besoin d’être typique mais doit quand même avoir un impact sur l’action. Même si ce second est typique, vous ne pouvez jamais utiliser plus de deux éléments pour une même action.
 
-*Exemple : Nicolas choisi la carrière « Decker » de son personnage Downlink pour effectuer un piratage. Comme l’action est typique pour cette carrière, il peut choisir un second élément. Il choisit alors sa « Console de décryptage modifiée » en plus.*
+*Exemple : Nicolas choisi la carrière « Decker » de son personnage Downlink pour effectuer un piratage. Comme l’action est typique pour cette carrière, il peut choisir un second élément. Il choisit alors sa « Console de décryptage modifiée » en plus. Même si cet élément est aussi typique, il ne peut pas en choisir un troisième.*
 
 Si votre personnage possède un état qui peut être considéré comme un handicap, vous devez l’indiquer au meneur. Si plusieurs états peuvent être ainsi impliqués, choisissez celui avec le score le plus élevé. Notez que les états qui auraient un impact positif sur l’action ne sont pas concernés et peuvent être utilisés normalement, comme n’importe quel autre type d’élément.
 
 Un état handicapant ne modifie pas vos chances de réussir votre action mais peut provoquer l’apparition d’une complication supplémentaire en fonction de votre jet de dés.
 
-*Par exemple, Skyline tente d’analyser une scène de crime. Au moment de choisir ses éléments, Albert indique à Justine, la meneuse, que son personnage possède l’état « Mal d’embodiement (2) » qu’il a obtenu après s’être immergé dans le corps d’un robot de patrouille. Cet état est effectivement justifié puisque l’action qu’il veut entreprendre demande un effort de concentration. Justine en tiendra compte lorsqu’elle décrira les conséquences de l’action*
+*Par exemple, Skyline tente d’analyser une scène de crime. Au moment de choisir ses éléments, Albert indique à Justine, la meneuse, que son personnage possède l’état « Mal d’embodiement (2) » qu’il a obtenu après s’être immergé dans le corps d’un robot de patrouille. Cet état est effectivement justifié puisque l’action qu’il veut entreprendre demande un effort de concentration. Justine en tiendra compte lorsqu’elle décrira les conséquences de l’action.*
 
 ## Résolution de l’action
 
@@ -142,7 +142,7 @@ Justine décrit alors ce qui se produit : aidé par Downlink qui brouille sa pr
 
 ### Règle optionnelle : Aléatoire dans l’environnement
 
-Durant une partie typique, vous ne lancerez jamais les dés. Pourtant, dans certains cas, vous pouvez vouloir recourir à l’aléatoire pour déterminer le déroulement de certains événements sur lesquels les PJ n’ont pas de prise.
+Durant une partie typique, le meneur ne lance jamais les dés. Pourtant, dans certains cas, vous pouvez vouloir recourir à l’aléatoire pour déterminer le déroulement de certains événements sur lesquels les personnages joueurs n’ont pas de prise.
 
 Comme pour la résolution des actions, le jet utilisera les trois dés comparés à un score donné. Ici, le calcul du score à battre est très simple :
 * 2, si vous préférez que l’élément soit plutôt en défaveur des personnages joueurs ;

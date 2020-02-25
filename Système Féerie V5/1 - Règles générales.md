@@ -24,7 +24,7 @@ Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps dé
 * **personnage non-joueur (PNJ)** : les personnages qui ne sont pas contrôlés par les joueurs et que, donc, le MJ gère ;
 * **scénario** : la partie préparée de l’histoire qu’habituellement seul le meneur connaît ;
 * **D6** : un dé à six faces. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotiques (par exemple, des dés à vingt faces qui seraient notés D20) ;
-* **Élement** : une information du personnage associée à un score allant de 0 à 3 qui sert notamment pour résoudre les actions et faire des modifications scénaristiques.
+* **élement** : une information du personnage associée à un score allant de 0 à 3 qui sert notamment pour résoudre les actions et faire des modifications scénaristiques.
 
 >> Si tout ceci vous semble encore nébuleux, voici un court extrait d’une partie de jeu de rôles.
 >>
@@ -86,7 +86,7 @@ Typiquement, pour une partie de jeu de rôles, vous aurez besoin :
 * d’un éventuel écran, pour cacher le matériel du meneur aux yeux des autres participants ;
 * de quoi se sustenter. Une partie de jeu de rôles pouvant durer longtemps, pensez aussi à boire !
 
-D’autres aides de jeu peuvent être parfois utiles suivant la partie comme des cartes, des résumés de certains éléments d’univers…
+D’autres aides de jeu peuvent être parfois utiles suivant la partie comme des cartes, des résumés de certains éléments d’univers, etc. Ils sont souvent fournis avec le scénario ou le jeu.
 
 ## Préparation de la partie
 
@@ -106,7 +106,7 @@ La création des personnages (ou le choix en cas de prétirés) est généraleme
 
 Le meneur lance la partie en décrivant la situation initiale. Cette description est le point de départ de l’histoire et doit permettre aux joueurs de comprendre où se trouvent leurs personnages et ce qu’ils y font. À la fin de l’introduction – qui se finit généralement lorsque le meneur demande : « Que faites-vous ? » – les joueurs vont pouvoir commencer à jouer.
 
-Par la suite, les joueurs vont – chacun leur tour sinon le meneur ne pourra pas suivre – indiquer ce qu’ils veulent que leur personnage fasse. Le meneur décrira alors les conséquences de cette action, ce qui conduira à de nouvelles situations. Notez que le *Système Féerie* n’impose pas un système de tour strict : les joueurs peuvent intervenir quand ils le souhaitent, tant qu’ils ne coupent pas la parole aux autres et laissent les autres jouer.
+Par la suite, les joueurs vont – chacun leur tour sinon le meneur ne pourra pas suivre – indiquer ce qu’ils veulent que leur personnage fasse. Le meneur décrira alors les conséquences de cette action, ce qui conduira à de nouvelles situations. Notez que le *Système Féerie* n’impose pas un système de tour strict : les joueurs peuvent intervenir quand ils le souhaitent, tant qu’ils ne coupent pas la parole aux autres et les laissent jouer.
 
 Certaines actions critiques peuvent ne pas réussir. Lorsque le meneur considère qu’une action est difficile ou sensible, il peut demander au joueur d’effectuer un test de résolution pour déterminer si l’action réussit ou échoue. Vous trouverez les règles de résolution des actions plus loin dans la section qui leur est dédiée.
 
@@ -124,4 +124,4 @@ La suite se déroule normalement, le meneur choisissant le prochain personnage �
 
 Au fil des actions des personnages et des évènements, les joueurs parviendront à la fin de la partie. Cette fin de partie, qui signe généralement la fin d’une intrigue, correspond à une situation où la problématique du scénario a été résolue, si nécessaire par la victoire des personnages ou leur défaite.
 
-Si cette notion vous semble nébuleuse, repensez à la fin d’film ou d’un épisode d’un série où cela peut vous paraître plus évident : il s’agit exactement de la même chose dans une partie de jeu de rôles.
+Si cette notion vous semble nébuleuse, repensez à la fin d’un film ou d’un épisode de série où cela peut vous paraître plus évident : il s’agit exactement de la même chose dans une partie de jeu de rôles.
