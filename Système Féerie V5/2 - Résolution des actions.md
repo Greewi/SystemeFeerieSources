@@ -68,7 +68,7 @@ Si l’action est typique pour cet élément – par exemple soigner quelqu’un
 
 Si votre personnage possède un état qui peut être considéré comme un handicap, vous devez l’indiquer au meneur. Si plusieurs états peuvent être ainsi impliqués, choisissez celui avec le score le plus élevé. Notez que les états qui auraient un impact positif sur l’action ne sont pas concernés et peuvent être utilisés normalement, comme n’importe quel autre type d’élément.
 
-Un état handicapant ne modifie pas vos chances de réussir votre action mais peut provoquer l’apparition d’une complication supplémentaire en fonction de votre jet de dés.
+Un état handicapant peut modifier vos chances de réussir votre action ou provoquer l’apparition d’une complication supplémentaire en fonction de votre jet de dés. Ceci est détaillé dans le chapitre *États*.
 
 *Par exemple, Skyline tente d’analyser une scène de crime. Au moment de choisir ses éléments, Albert indique à Justine, la meneuse, que son personnage possède l’état « Mal d’embodiement (2) » qu’il a obtenu après s’être immergé dans le corps d’un robot de patrouille. Cet état est effectivement justifié puisque l’action qu’il veut entreprendre demande un effort de concentration. Justine en tiendra compte lorsqu’elle décrira les conséquences de l’action.*
 

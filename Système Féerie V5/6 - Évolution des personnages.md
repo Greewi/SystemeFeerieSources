@@ -114,3 +114,9 @@ Il peut être intimidant pour un joueur de construire une intrigue lui-même. Bi
 * étape 1 : *passer une visite médicale et apprendre que son corps a une pièce défectueuse* ;
 * étape 2 : *rechercher la trace de son créateur, le seul qui pourrait réparer le problème* ;
 * étape 3 : *retrouver son créateur et recevoir les réparations*.
+
+## Gains en jeu
+
+Il peut arriver que des événements en jeu puissent modifier le personnage. La découverte de matériel, un service rendu à un PNJ qui a promis de rendre un service, etc. Le meneur peut alors accorder au personnage de nouveaux éléments ou lui permettre d’en modifier des existants.
+
+Toutefois, en fonction du genre, ces gains peuvent n’être que temporaire. Par exemple dans un jeu de super héros, ce type de gain peut ne durer qu’un épisode ou un seul arc. Dans ce cas, nous vous conseillons de noter ces nouveaux éléments parmi les états du personnage, pour vous rappeler sa nature temporaire.

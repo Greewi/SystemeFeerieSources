@@ -36,15 +36,19 @@ Pour les états les plus graves, il peut même être intéressant de dédier une
 
 Les états ne sont pas seulement des mots clés décrivant la situation de votre personnage. Ils ont aussi un effet sur vos actions. Tout d’abord, si un état est susceptible d’aider votre personnage dans une action, vous pouvez l’utiliser comme n’importe quel autre type d’élément.
 
-Si un de vos états est potentiellement handicapant pour une action, indiquez-le au meneur. Ensuite, lors de la résolution de l’action, si vous ne conservez pas strictement plus de dés que le score de l’état, l’état déclenche un effet secondaire négatif en plus du résultat habituel de l’action.
+Mais tous les états ne vous seront pas favorables. Si un de vos états est potentiellement handicapant pour une action, indiquez-le au meneur.
 
-Cet effet négatif doit évidemment être en relation avec l’état. Il peut s’agir d’une complication de la situation, d’une aggravation de l’état, etc.
+Ensuite, lors de la résolution de l'action, ce dernier aura deux options :
+* Le soustraire à la difficulté, rendant la réussite de l'action bien moins probable.
+* Ajouter un effet secondaire négatif, en plus du résultat habituel de l'action, si vous ne conservez pas strictement plus de dés que le score de l’état. Cet effet négatif doit évidemment être en relation avec l’état. Il peut s’agir d’une complication de la situation, d’une aggravation de l’état, etc.
+
+>> Nous vous déconseillons d'employer les options en même temps sur une même action. De plus, si plusieurs états sont éligibles, ne prenez en compte que le plus important, ou le plus intéressant scénaristiquement.
 
 *Par exemple, Feyn qui a l’état « Décroché (2) », tente une réparation sur le connecteur qui sert à raccorder son vaisseau à la station de ravitaillement. Le joueur indique l’état à la meneuse qui confirme le handicap. Après le lancé de dés, il s’avère que l’action réussie. Mais comme le joueur n’a conservé que seulement deux dés, une complication apparaît et Feyn sous l’effort pour refermer l’attache, perd prise et Thoss le voit partir à la dérive, tournant sur lui-même, non sans quelques jurons.*
 
 ## Exemples d’états
 
-Par conception, il n’y a pas de liste exhaustive et définitive des états. Toutefois voici une courte liste d’exemples :
+Par conception, il n’y a pas de liste exhaustive et définitive des états. Toutefois, voici une courte liste d’exemples :
 * **À la dérive (3)** : le personnage dérive dans l’espace ou dans une section en zéro-g sans la possibilité de se raccrocher à quelque chose ;
 * **Béni (2)** : dans un univers fantastique le personnage a reçu la bénédiction d'une entité suppérieure ;
 * **Blessé (2)** : le personnage a été blessé ;
