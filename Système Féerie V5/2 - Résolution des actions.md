@@ -66,12 +66,6 @@ Si l’action est typique pour cet élément – par exemple soigner quelqu’un
 
 *Exemple : Nicolas choisi la carrière « Decker » de son personnage Downlink pour effectuer un piratage. Comme l’action est typique pour cette carrière, il peut choisir un second élément. Il choisit alors sa « Console de décryptage modifiée » en plus. Même si cet élément est aussi typique, il ne peut pas en choisir un troisième.*
 
-Si votre personnage possède un état qui peut être considéré comme un handicap, vous devez l’indiquer au meneur. Si plusieurs états peuvent être ainsi impliqués, choisissez celui avec le score le plus élevé. Notez que les états qui auraient un impact positif sur l’action ne sont pas concernés et peuvent être utilisés normalement, comme n’importe quel autre type d’élément.
-
-Un état handicapant peut modifier vos chances de réussir votre action ou provoquer l’apparition d’une complication supplémentaire en fonction de votre jet de dés. Ceci est détaillé dans le chapitre *États*.
-
-*Par exemple, Skyline tente d’analyser une scène de crime. Au moment de choisir ses éléments, Albert indique à Justine, la meneuse, que son personnage possède l’état « Mal d’embodiement (2) » qu’il a obtenu après s’être immergé dans le corps d’un robot de patrouille. Cet état est effectivement justifié puisque l’action qu’il veut entreprendre demande un effort de concentration. Justine en tiendra compte lorsqu’elle décrira les conséquences de l’action.*
-
 ## Résolution de l’action
 
 Pour commencer le jet de résolution, ajoutez la difficulté au score des éléments que vous avez choisis. Ce sera le score à battre.
@@ -100,6 +94,7 @@ De plus, si vous aviez indiqué un état handicapant au moment de choisir les é
 >> * Pour battre **5**, on a **7 %** de chance de **rater**.
 
 ## Conséquences de l’action
+
 Une fois l’action résolue, le meneur peut décrire les conséquences de l’action. Généralement, cela consiste à acter ce qui avait été déterminé au moment de déclarer l’action.
 
 Des effets secondaires peuvent survenir, mais ils ne doivent pas remettre en question la réussite ou l’échec de l’action ni la moduler directement. C’est notamment le cas si votre personnage avait un état handicapant et que vous n’aviez pas conservé strictement plus de dés que le score de cet état.
