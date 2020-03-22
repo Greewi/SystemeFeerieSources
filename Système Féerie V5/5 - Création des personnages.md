@@ -8,58 +8,19 @@ Pour créer vos personnages, vous disposez de plusieurs méthodes que nous décr
 
 ## De quoi est fait un personnage ?
 
-Dans le *Système Féerie*, les personnages n’ont pas de caractéristiques communes définies, comme vous pouvez en avoir l’habitude dans d’autres jeux de rôles. Le système dispose d’une structure beaucoup plus libre et défini principalement les personnages par des éléments, sortes de mot-clé chiffrés.
+Avant même de considérer les mécaniques du système de jeu, un personnage est fait d’idées et de mots : par son concept, ses descriptions, son histoire, etc. Lorsqu’un personnage est introduit dans une histoire, ce sont ces aspects qui importent. C’est aussi ce qui sert normalement de base lors de la création d’un personnage avec le *Système Féerie*.
 
-En plus de ces éléments, le personnage est aussi défini par sa description qui regroupe généralement son identité, sa description physique, son historique, ses motivations et ses objectifs. Bien que ces composants n’interviennent pas directement dans la mécanique du jeu, ils donnent de la matière au personnage et en font plus qu’un simple tas de chiffres.
+D’un point de vue plus mécanique, ces règles ne vous proposeront pas un ensemble de caractéristiques communes à tous les personnages, définies à l’avance, comme vous pouvez en avoir l’habitude dans d’autres jeux de rôles. Le *Système Féerie* dispose d’une structure beaucoup plus libre qui repose principalement sur les éléments du personnage, des sortes de mot-clé chiffrés. Ceux-ci sont directement extraits de ces descriptions initiales.
 
-## Les éléments
-
-Un élément est une sorte de mot-clé auquel on a attribué un score allant de **0** à **3**. Il est généralement plus commode de les classer dans des catégories. Il s’agit avant tout d’une question de présentation : le système de résolution les utilise tous de la même façon, sans considération aucune pour leur catégorie. Un trait ou une carrière peuvent tous deux être utilisés en jeu pour peu qu’ils soient adaptés à l’action à résoudre.
-
-Toutes les méthodes de création de personnage que nous vous présenterons disposent de leurs propres méthodes pour déterminer la liste des éléments de votre personnage. En revanche, toutes utilisent le même système d’évaluation pour leur attribuer un score. Cette méthode, l’évaluation des éléments, consiste à leur attribuer leur score en fonction de son importance pour le personnage. Chaque catégorie d’élément possède sa propre échelle d’évaluation.
-
-Voici les catégories les plus courantes et leurs échelles d’évaluation.
-
-**Les traits** sont les traits de caractère et ses points particuliers, physiques comme mentaux. Pour les évaluer, utilisez la correspondance suivante :
-* **Insignifiant (0)** : une particularité qui n’a aucun impact pour le personnage et ses actions.
-* **Léger (1)** : une particularité qui ne se remarque pas nécessairement et qui n’a pas un impact majeur sur la vie du personnage.
-* **Important (2)** : une particularité qui est difficile à manquer mais qui ne conditionne pas pour autant la vie du personnage.
-* **Extrême (3)** : une particularité tellement importante que la vie du personnage gravite autour d’elle.
-
-**Les carrières** représentent les métiers, formations, loisirs et autres occupations du personnage. En cours de jeu, n’oubliez pas que celles-ci incluent aussi des relations anonymes, par exemple des collègues, des fournisseurs, des employeurs, etc. Pour les évaluer, voici les correspondances :
-* **Profane (0)** : le personnage n’a jamais pratiqué ou étudié cette carrière.
-* **Débutant (1)** : le personnage débute, étudie ou est un apprenti.
-* **Professionnel (2)** : le personnage exerce le métier professionnellement ou est un amateur très investi.
-* **Expert (3)** : le personnage est un spécialiste respecté, un maître et cette carrière est une véritable vocation pour le personnage.
-
-**Les relations** représentent les contacts, les alliés et autres liens sociaux du personnage. Il peut s’agit d’individus ou d’organisation. Dans ce dernier cas, nous ne faisons pas de distinction pour le score que l’on considère l’organisation elle-même ou les individus la composant. Voici les correspondances :
-* **Connu (0)** : le personnage peut est connu de l’entité mais elle n’a pas de raison de lui accorder quoi que ce soit.
-* **Favorable (1)** : l’entité accepte de fournir des faveurs au personnage tant que ça ne lui coûte rien ;
-* **Allié (2)** : l’entité accepte d’aider le personnage même si cela représente un coût significatif, tant qu’elle ne court pas elle-même un risque significatif.
-* **Dévoué (3)** : l’entité est prête à s’engager complètement pour le personnage.
-
-**L’équipement** représente le matériel usuel du personnage. L’échelle d’évaluation de ces éléments est la suivante :
-* **Ordinaire ou Standard (0)** : le matériel standard, qu’il soit spécialisé ou non.
-* **Amélioré ou spécial (1)** : le matériel amélioré, modifié ou personnalisé que possèdent les spécialistes.
-* **À la pointe de la technologie (2)** : le matériel à la pointe de la technologie, ce qui se fait de mieux.
-* **Magique (2, variante)** : la matériel est échanté ou magique.
-* **Prochaine génération (3)**. : le matériel expérimental destiné à remplacer le matériel actuel lorsqu’il sera finalisé. On trouve principalement des prototypes ou les outils de certains technophiles les plus investis.
-* **Artefact légendaire (3, variante)** : le matériel est un artefact légendaire et unique et possède une grande puissance.
-
->> Nous indiquons ici des correspondances pour des scores de 0. Normalement, il n’est pas utile de noter des éléments avec un tel score sur sa fiche. En particulier, il n’est pas nécessaire de noter le matériel ordinaire des personnages, car on suppose qu’ils disposent de leur matériel de travail sauf circonstances particulières.
-
->> ### Adaptation : les éléments
->> Les catégories d’éléments présentée ici ne sont pas fixes : chaque jeu devrait établir sa propre liste de catégorie. Il ne s’agit pas pour autant d’émuler un système de caractéristique fixe, mais d’organiser les éléments du personnage pour aider le joueur à s’y retrouver. Mais notez aussi que ce découpage en catégorie permet de préciser leur règle d’évaluation. Pour ces dernières, nous vous conseillons de vous inspirer des règles des catégories-ci dessus.
->>
->> Par exemple, *Solaires* propose deux catégories de plus : *Les modifications* et *Les logiciels* qui utilisent la même échelle d’évaluation que *L’équipement*.
+C’est cette façon de procéder qui permet au système féerie de donner plus de matière au personnage et d’en faire bien plus qu’un simple tas de chiffres.
 
 ## Construire le groupe
 
 Avant de procéder à la création dans le détail, nous vous recommandons de vous intéresser à la création du groupe. En effet, normalement, les personnages vont former un groupe ou une équipe lors de leur aventure et il est sans doute nécessaire de porter une attention toute aussi importante à la composition du groupe qu’à la création des personnages individuellement.
 
->> Nous vous conseillons de considérer le groupe comme une entité à part entière et de lui créer une fiche pour noter ses attributs.
+>> Nous vous conseillons de considérer le groupe comme une entité à part entière et de lui créer une fiche pour noter ses éléments.
 >>
->> En option, vous pouvez aussi construire la carte des relations entres les personnages. Cela peut vous aider à lier les personnages entre eux et donne un outil supplémentaire au meneur.
+>> En option, vous pouvez aussi construire la carte des relations entre les personnages. Cela peut vous aider à lier les personnages entre eux et donne un outil supplémentaire au meneur.
 
 La première chose à faire est de fixer la nature du groupe et son objectif. Par exemple, dans *Solaires* la nature du groupe peut être *« un solar wardner et son équipe »* ou encore *« l’équipage d’un vaisseau d’intervention »*. L’objectif du groupe pourrait être *« Servir une corporation »*, *« Résoudre les problèmes de clients »*, etc.
 
@@ -76,53 +37,120 @@ Enfin, établissez les relations entre les personnages, pour vous assurer notamm
 
 ## Créer un personnage
 
-Une fois le groupe défini, le *Système Féerie* vous propose une mécanique de base simple et surtout extrêmement flexible pour créer les personnages. Dans l’absolu, une simple description peut suffire. Par exemple, pour *Solaires*, voici un *« **Chef de la sécurité** (2), ancien **Commando spatial** (2), **Peu loquace** (1) qui possède un **Fort a priori envers les étrangers** (2) et qui joue de son statut et de la stature que lui donne son **Armure légère modifiée** (1). »*.
+Maintenant que vous avez défini le groupe, passons à la création de votre personnage proprement dite. C’est une procédure simple qui peut toutefois prendre un peu de temps si vous n’êtes pas familiers avec l’univers du jeu. Cette création s’effectue en plusieurs étapes :
+* Le concept, où vous définissez le concept de votre personnage ;
+* Les descriptions, où vous décrivez votre personnage, notamment son identité, son physique, son comportement et son histoire ;
+* Les éléments, où vous extrairez les éléments de votre personnage avant de les évaluer ;
+* Les finitions, où vous remplissez les derniers détails sur la fiche du personnage.
 
-Toutefois si cette description serait tout à fait appropriée pour un personnage non-joueur, elle serait bien trop incomplète pour celui d’un joueur. Pour cela, nous vous proposons plusieurs méthodes de création de personnage :
-* **La création guidée** : sélectionnez les éléments du personnage dans des listes ouvertes. C’est la méthode la plus proche de ce que vous pourriez trouver dans la plupart des jeux de rôle. Il s’agit de celle que nous recommandons aux joueurs qui ne connaissent pas l’univers du jeu.
-* **La création par questionnaire** : construisez votre personnage en répondant à un questionnaire et en extrayant ses éléments depuis vos réponses. Il s’agit d’une méthode intermédiaire entre la création guidée et la création descriptive.
-* **La création descriptive** : décrivez votre personnage librement puis transposez-le dans le système. Méthode la plus libre des trois, elle est parfaitement adaptée aux personnages non-joueurs et pour ceux qui aiment partir d’une description et d’un historique pour créer leurs personnages.
+## Le concept
 
-Enfin, notez que les personnages construits par ces différentes méthodes sont totalement compatibles entre eux et que vous pouvez constituer une équipe de personnages créés de façons différentes. Par exemple, si un joueur a une idée précise de son personnage, il peut le construire via la méthode descriptive, tandis qu’un camarade peu à l’aise peut employer la création guidée.
+Pour commencer la création de votre personnage, il vous faut son concept. Il s’agit de la base du personnage et il devrait permettre d’avoir une première idée de votre personnage sur ce qu’il est et ce qu’il peut faire. Voici quelques exemples de concept de personnage pris dans divers univers :
+* Un astronaute dans une enveloppe de raton laveur antropomorphe.
+* Une ranger elfe peu locace.
+* Un prestidigitateur anglais très charismatique.
+* Un tirailleur sénégalais vétéran.
+* Une fée, agente des gardiennes.
+* Une inspectrice de la légion impériale.
+* Une jeune enfant électrokinésiste.
 
->> ### Adaptation : Création guidée
->>
->> La création guidée vous propose de créer votre personnage en sélectionnant les éléments de votre personnage parmi des listes ouvertes et en remplissant diverses descriptions pour le compléter. Généralement une section « Historique » servira ensuite à structurer le personnage.
->>
->> Par exemple pour *Solaires*, le joueur commence par choisir les rôles de son personnage, puis il choisit la nature de son personnage (Intelligence et Enveloppe) avant de choisir ses carrières, relations, équipement et traits. En dehors de la dernière catégorie, nous avons donné au joueur des listes d’éléments associée à de courtes descriptions. Une fois qu’il a choisi ses éléments, il peut les évaluer. Ensuite nous lui proposons de construire l’identité du personnage (nom, profession, etc.), de le décrire physiquement (ainsi que son avatar), de choisir des opinions, de définir sa motivation et, pour structure les carrières et relations dans le temps, de construire son histoire.
->>
->> Pour simplifier l’accès au jeu, les premières étapes sont des choix dans des listes. Bien qu’elles soient ouvertes, c’est-à-dire que vous pouvez choisir des éléments qui ne sont pas dans la liste du moment que les participants l’acceptent, l’intérêt de ces listes est de proposer un premier aperçu du jeu au joueur en lui montrant des aspects de l’univers succinctement. Dans ces premières étapes, essayez toujours de partir des rôles et de préciser en premier ce que le personnage peut, ou sait, faire.
->>
->> Essayez aussi tant que possible d’éviter des allers et retours entre les étapes en vous assurant que les informations utiles pour une étape sont définies avant. Par exemple, définissez les carrières avant l’équipement, car le matériel d’un personnage dépend principalement de son métier dans la plupart des jeux. Notez toutefois que les étapes de descriptions peuvent produire de nouveaux éléments à ajouter dans les catégories correspondantes. En fonction de la probabilité de ceci, il est possible que vous souhaitiez retarder l’étape d’évaluation.
->>
->> L’historique peut être une simple description, mais nous avons noté qu’il était plus simple pour les joueurs de leur demander de placer leurs carrières et relations sur une sorte de frise chronologie. Pour *Solaires*, nous proposons de découper l’histoire du personnage en périodes, chaque période étant défini par sa date de début, les carrières pratiquées à l’époque, l’affiliation du personnage et d’éventuelles événements survenus pendant. Ces événements permettent notamment d’ajouter du contexte, expliquant pourquoi le personnage peut avoir changé d’occupation ou d’affiliation. Bien qu’elle n’aura pas l’impact des listes d’éléments sur la partie, cet historique est ce qui apporte la cohérence au personnage et le contextualise.
+Vous noterez que tous ces concepts définissent prioritairement la nature et la profession première de ces personnages ainsi qu’un éventuel trait important.
 
->> ### Adaptation : Création par questionnaire
->>
->> La création par questionnaire vous propose de répondre à un questionnaire pour construire votre personnage. Répondez aux questions puis soulignez les éléments importants pour en faire les Éléments du personnage. Évaluez ces éléments, remplissez la fiche et vous avez fini.
->>
->> Non seulement cette méthode est très simple, mais si un joueur ne connaît pas déjà le jeu, les questions lui permettront d’aborder l’univers tout en étant relativement guidé. Contrairement à la méthode descriptive, le questionnaire permet de couvrir tous les points important d’un personnage sans risquer d’en oublier.
->>
->> Cette méthode demande évidemment de construire ce fameux questionnaire. Suivant le jeu, les questions ne seront pas les mêmes et n’auront pas le même intérêt. Par exemple, dans un jeu qui met en avant les intrigues politiques, il est important de poser des questions sur l’opinion du personnage sur ces sujets. Ce ne sera pas nécessaire dans un jeu où cet aspect n’est pas développé. Pensez à ce qui est important pour votre jeu et définissez notamment ce que les personnages auront à faire au cours d’une partie type. Par exemple, dans un jeu qui mettrait l’accent sur le combat, vous aurez envie de préciser les capacités des personnages dans ce domaine. En revanche pour de l’enquête, ce sera plutôt les moyens trouver l’information et les sources des personnages que vous souhaiterez définir.
->>
->> Une fois la liste des informations que vous souhaitez collecter, vous pouvez commencer la rédaction des questions. Toutefois, lors de cette étape évitez les questions trop vagues comme « Qu’est-ce que votre personnage a de particulier ? ». Évitez aussi d’émuler un système de caractéristique avec des questions comme « À quel point votre personnage est-il fort ? » ou « À quel point votre personnage est-il adroit ? ». À la place préférez des questions comme « Comment votre personnage se démarque-t-il des autres par ses capacités physiques ? »
->>
->> Une fois les questions écrites, organisez-les par thématique et arrangez-vous pour que leurs réponses puissent être directement reportées sur la fiche du personnage. Concernant le style d’écriture, évitez une approche trop poétique et allez droit au but : ces questions doivent être comprises sans difficulté.
->>
->> Enfin, laissez l’option au meneur d’ajouter des questions spécifiques, notamment dans le cadre d’une campagne. Cela pourrait être des secrets, des relations particulières avec certains PNJ. N’hésitez pas à redonner au meneur les conseils précédents.
+Le concept est une étape importante car tout le reste va en découler. Tout d’abords assurez-vous qu’il puisse effectivement remplir les rôles que vous avez choisis. Proposez ensuite votre concept aux autres participants pour vous assurer que personne n’ait d’objection. Une fois validé, notez-le sur votre fiche de personnage.
 
->> ### Adaptation : Création descriptive
+## Les descriptions
+
+Pour la suite, vous allez étendre ce concept en décrivant votre personnage. Cette description n’a pas besoin d’être longue et doit se concentrer sur le plus important. La fiche de personnage comporte plusieurs sections qui vous guideront, et vous évitera d’oublier des aspects importants de votre personnage. Bien que nous vous suggérions ici un ordre de remplissage, notez bien que vous n’y êtes pas tenus : bien au contraire, il sera peut-être plus simple pour certains de commencer par l’histoire du personnage que par la description physique, par exemple.
+
+Normalement, vous commencerez par déterminer l’identité du personnage. Ce sont des informations qui précisent les informations centrales comme le nom, l’espèce, la faction ou le genre. Par ailleurs, vous devriez avoir déjà noté votre concept dans cette partie.
+
+Vient ensuite la description physique : cette description vise à caractériser votre personnage physiquement. À quoi ressemble-t-il ? A-t-il des particularités physiques ? Des capacités physiques inhabituelles ?
+
+La description de son comportement va vous permettre de préciser la façon dont votre personnage pense. Quel est son caractère ? Comment résout-il ses problèmes ? Quels sont ses objectifs à long terme ? Qu’est-ce qui le motive ?
+
+Enfin, vient son histoire, expliquant le parcours du personnage et ses anciennes occupations. Quel est le contexte de sa naissance ? Y a-t-il eu des événements particuliers pendant son enfance ? Comment a-t-il appris ce qu’il sait maintenant ? Est-ce qu’il a eu d’autres vies avant ?
+
+Toutes ces questions peuvent sembler un peu intimidantes, mais n’oubliez pas : il n’est pas nécessaire d’en dire beaucoup. Concentrez-vous sur le principal, ce qui est le plus évident.
+
+>> ### Comprendre l’univers du jeu
 >>
->> Historiquement la méthode d’origine pour créer des personnages dans le *Système Féerie*, la création descriptive est très simple dans son principe : décrivez votre personnage papier, donnez-lui une histoire, des amis, etc. Ensuite surlignez tous les points importants et transcrivez-les en éléments. Ceci fait, il ne reste plus qu’à les évaluer et remplir la fiche de personnage.
+>> Si vous ne connaissez pas encore l’univers, vous aurez sans doute du mal pour créer votre personnage. Commencez par regarder les archétypes ou les personnages prétirés qui sont normalement fournis avec le jeu. Si l’univers du jeu provient d’une d’une fiction, vous pouvez aussi vous inspirer des personnages qui y apparaissent. Les autres participants devraient aussi pouvoir vous aider. N’hésitez pas non plus à demander quelques résumés de l’univers à votre meneur.
+
+>> ### Adaptation : découper la description
 >>
->> Dans la pratique cette méthode, bien qu’extrêmement simple sur le papier, demande au joueur une bonne connaissance de l’univers du jeu et surtout une description suffisemment complète pour permettre de remplir toute la fiche. Pour cette raison, nous vous conseillons de découper cette discrétion en plusieurs parties. Par exemple : description physique, psychologie du personnage, histoire, etc. Là encore, le découpage permet de mettre l’accent sur certains aspects du personnage et devrait être fait en fonction du jeu.
+>> Lors de la conception de la fiche de personnage, réfléchissez bien au découpage de la description du personnage. Nous proposons ici un découpage en Identité, Description Physique, Comportement et Histoire. Mais en fonction de votre jeu, ce découpage peut ne pas du tout être adapté. Pourquoi une section Histoire si les personnages sont des patients amnésiques d’une maison de soin ? Pour Solaires, les personnages ont aussi un avatar qui les représente sur la réalité virtuelle et augmentée. Dans les Contes de l’Entremondes, les fées possèdent un domaine qu’il faut aussi décrire.
 >>
->> Notez que bien que cette méthode soit parfaitement viable et fonctionnelle, elle reste sans doute la plus difficile à employer. Et puis avez-vous vraiment envie de commencer une séance en demandant : « Sortez une feuille et décrivez votre personnage, vous avez une demi-heure. » ?
+>> Pour chaque partie, définissez les informations que vous souhaitez et formulez-les sous forme de petites questions comme nous l’avons fait ici. Cela peut beaucoup aider les joueurs !
+>>
+>> Réfléchissez à ce qui est pertinent pour votre jeu et n’ajoutez pas des détails inutiles : ceci rendrait la description plus longue à remplir. D’ailleurs, nous ne connaissons personne qui se soit jamais exclamé « Chouette ! », quand le meneur leur a annoncé en début de partie : « Sortez une copie double et décrivez votre personnage. Vous avez deux heures. ». Ou alors c’était de l’ironie.
+
+>> ### Adaptation : les aides de jeu
+>>
+>> Si vous utilisez le Système Féerie avec un univers original, vos joueurs n’auront probablement pas beaucoup de point de référence. Dans ce cas, nous vous recommandons de créer une liste d’archétypes et quelques personnages prétirés pour leur donner une idée claire de ce que sont des personnages types dans l’univers de votre jeu.
+>>
+>> Par ailleurs, préparez un résumé de votre univers qui présente en quelques paragraphes le monde, éventuellement associé à une courte chronologie sur une seconde page si nécessaire. Cette dernière aide de jeu peut aussi être très pratique en partie. Un petit glossaire sur la troisième page et une carte sur la dernière compléteront généralement votre petite aide de jeu.
+
+## Les éléments
+
+Vous avez décrit votre personnage, il est maintenant temps d’en extraire les éléments qui serviront aux règles du jeu.
+
+Un élément est une sorte de mot-clé auquel on a attribué un score allant de **0** à **3**. Il est généralement plus commode de les classer dans des catégories. Mais notez bien qu’il s’agit avant tout d’une question de présentation : le système de résolution les utilise tous de la même façon, sans considération aucune pour leur catégorie. Un trait ou une carrière peuvent tous deux être utilisés en jeu pour peu qu’ils soient adaptés à l’action à résoudre.
+
+Extraire les éléments est très simple : soulignez, ou recopiez, les mots clés ou expressions importantes des différentes descriptions. Par exemple, voici la description physique de Feyn, avec les éléments en gras : « Son corps **mince** et **agile** est couvert d’une **fourrure grise**. **Son visage est celui d’un raton laveur légèrement anthropomorphisé**. Il possède une **queue rayée et touffue et détachable**. »
+
+Sur votre fiche, se trouve une zone dans laquelle recopier les éléments. Durant cette opération, n’hésitez pas à reformuler certains éléments. Par exemple, nous pouvons remplacer « Son visage est celui d’un raton laveur légèrement anthropomorphisé » par « Raton laveur anthropomorphe ».
+
+Une fois les éléments notés, il est temps de les catégoriser et de les évaluer. Pour chaque élément, vous allez noter sa catégorie. Une lettre suffit, par exemple **T** pour un **trait** ou **C** pour une **carrière**. Une fois catégorisée, vous allez déterminer son score en vous servant des correspondances indiquées par les listes suivantes.
+
+Par exemple, en créant le personnage de Feyn, vous êtes en train d’évaluer son élément « Astronaute ». Vous commencez par le ranger dans la catégorie **Carrière** car il s’agit d’un métier. Vous estimez que Feyn est un professionnel accompli et vous lui attribuez donc un score de **2**. Vous obtenez donc l’élément **Astronaute (C) : 2**.
+
+Voici les catégories et leurs échelles d’évaluation.
+
+**Les traits (T)** réprésentent les points particuliers du personnage, physiques comme mentaux. Pour les évaluer, utilisez la correspondance suivante :
+* **Insignifiant (0)** : une particularité qui n’a aucun impact pour le personnage et ses actions.
+* **Léger (1)** : une particularité qui ne se remarque pas nécessairement et qui n’a pas un impact majeur sur la vie du personnage.
+* **Important (2)** : une particularité qui est difficile à manquer mais qui ne conditionne pas pour autant la vie du personnage.
+* **Extrême (3)** : une particularité tellement importante que la vie du personnage gravite autour d’elle.
+
+**Les traits de personnalité (P)** sont les traits de caractère, les motivations, les opinions et les croyances du personnage. Voici leur échelle d’évaluation :
+* **Insignifiant (0)** : un trait de personnalité qui n’a aucun impact sur les décisions ou le comportement du personnage.
+* **Mineur (1)** : le personnage peut ignorer ce trait de personnalité sans grand effort.
+* **Important (2)** : un trait de personnalité que le personnage a beaucoup de mal à ignorer et qui intervient dans de nombreuses situations.
+* **Impératif (3)** : le personnage remettra jamais en question ce trait de personnalité qui gouverne intégralement sa vie.
+
+**Les carrières (C)** représentent les métiers, formations, loisirs et autres occupations du personnage. En cours de jeu, n’oubliez pas que celles-ci incluent aussi des relations anonymes, par exemple des collègues, des fournisseurs, des employeurs, etc. Pour les évaluer, voici les correspondances :
+* **Profane (0)** : le personnage n’a jamais pratiqué ou étudié cette carrière.
+* **Débutant (1)** : le personnage débute, étudie ou est un apprenti.
+* **Professionnel (2)** : le personnage exerce le métier professionnellement ou est un amateur très investi.
+* **Expert (3)** : le personnage est un spécialiste respecté, un maître et cette carrière est une véritable vocation pour le personnage.
+
+**Les relations (R)** représentent les contacts, les alliés et autres liens sociaux du personnage. Il peut s’agit d’individus ou d’organisation. Dans ce dernier cas, nous ne faisons pas de distinction pour le score que l’on considère l’organisation elle-même ou les individus la composant. Voici les correspondances :
+* **Connu (0)** : le personnage peut est connu de l’entité, mais elle n’a pas de raison de lui accorder quoi que ce soit.
+* **Favorable (1)** : l’entité accepte de fournir des faveurs au personnage tant que ça ne lui coûte rien ;
+* **Allié (2)** : l’entité accepte d’aider le personnage même si cela représente un coût significatif, tant qu’elle ne court pas elle-même un risque significatif.
+* **Dévoué (3)** : l’entité est prête à s’engager complètement pour le personnage.
+
+**L’équipement (E)** représente le matériel usuel du personnage. L’échelle d’évaluation de ces éléments est la suivante :
+* **Ordinaire ou Standard (0)** : le matériel standard, qu’il soit spécialisé ou non.
+* **Amélioré ou spécial (1)** : le matériel amélioré, modifié ou personnalisé que possèdent les spécialistes.
+* **À la pointe de la technologie (2)** : le matériel à la pointe de la technologie, ce qui se fait de mieux.
+* **Magique (2, variante)** : la matériel est enchanté ou magique.
+* **Prochaine génération (3)**. : le matériel expérimental destiné à remplacer le matériel actuel lorsqu’il sera finalisé. On trouve principalement des prototypes ou les outils de certains technophiles les plus investis.
+* **Artefact légendaire (3, variante)** : le matériel est un artefact légendaire et unique et possède une grande puissance.
+
+>> Nous indiquons ici des correspondances pour des scores de 0. Normalement, il n’est pas utile de noter des éléments avec un tel score sur sa fiche. En particulier, il n’est pas nécessaire de noter le matériel ordinaire des personnages, car on suppose qu’ils disposent de leur matériel de travail sauf circonstances particulières.
+
+>> ### Adaptation : les éléments
+>>
+>> Les catégories d’éléments présentée ici ne sont pas fixes : chaque jeu devrait établir sa propre liste de catégorie. Il ne s’agit pas pour autant d’émuler un système de caractéristique fixe, mais d’organiser les éléments du personnage pour aider le joueur à s’y retrouver. Notez aussi que ce découpage en catégorie permet de préciser leur règle d’évaluation. Pour ces dernières, nous vous conseillons de vous inspirer des règles des catégories-ci dessus.
+>>
+>> Par exemple, *Solaires* propose deux catégories de plus : *Les modifications* et *Les logiciels* qui utilisent la même échelle d’évaluation que *L’équipement*.
 
 >> ### Règles optionnelles : limiter les scores
+>>
 >> Ceci pris en compte, vous remarquerez que certains joueurs sont quand même tentés d’affecter un score de 3 à tout ce qui touche de près ou de loin à leurs rôles. C’est une habitude qui vient d’autres jeux où l’optimisation du personnage est une composante forte du jeu. Ce n’est pas le cas pour le *Système Féerie* : ici la création du personnage n’est pas un exercice d’optimisation mais vise à construire des personnages qui auraient leur place dans un livre ou un film.
 >>
->> Si malgré tout certains joueurs ne sont pas à l’aise avec ce concept, vous pouvez appliquer la règle suivante : il faut affecter un score de 3 à deux éléments, un score de 2 à quatre éléments et un score de 1 aux autres.
+>> Si malgré tout certains joueurs ne sont pas à l’aise avec ce concept, vous pouvez appliquer la règle suivante : ils peuvent affecter un score de 3 à un élément, un score de 2 à quatre éléments et un score de 1 aux autres.
 
 ## Créer autre chose que des personnages
 
@@ -131,6 +159,7 @@ Vous aurez peut-être besoin de créer d’autre choses que des personnages. Par
 Précisons qu’il n’est normalement pas nécessaire de définir aussi précisément la plupart de ces entités et que ces règles ne devraient être employée que pour ce qui a vraiment de l’importance. Très souvent attribuer un score global à l’entité suffit.
 
 >> ### Adaptation : les autres types d’entité
+>>
 >> Si votre jeu met en scène des entités importantes et qui doivent être détaillée pour le jeu, nous vous conseillons d’établir la liste des catégories pour celles-ci, en indiquant si nécessaire leur échelle d’évaluation.
 >>
 >> Par exemple dans *Solaires*, les vaisseaux sont définis avec les catégories suivantes : **Systèmes** (équivalent d'**équipement**), **Modifications**, **Logiciels** et **Équipage** (qui regroupe les membres non-joueurs de l’équipage et utilise l’évaluation des carrières).
