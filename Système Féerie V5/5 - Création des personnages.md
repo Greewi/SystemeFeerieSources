@@ -66,6 +66,8 @@ Normalement, vous commencerez par déterminer l’identité du personnage. Ce so
 
 Vient ensuite la description physique : cette description vise à caractériser votre personnage physiquement. À quoi ressemble-t-il ? A-t-il des particularités physiques ? Des capacités physiques inhabituelles ?
 
+La description de ses possessions vise à caractériser ses outils et biens précieux. A-t-il des outils particuliers ? Y a-t-il des choses dont il ne se sépare pas ? Où habite-t-il ? Possède-t-il un véhicule ?
+
 La description de son comportement va vous permettre de préciser la façon dont votre personnage pense. Quel est son caractère ? Comment résout-il ses problèmes ? Quels sont ses objectifs à long terme ? Qu’est-ce qui le motive ?
 
 Enfin, vient son histoire, expliquant le parcours du personnage et ses anciennes occupations. Quel est le contexte de sa naissance ? Y a-t-il eu des événements particuliers pendant son enfance ? Comment a-t-il appris ce qu’il sait maintenant ? Est-ce qu’il a eu d’autres vies avant ?
