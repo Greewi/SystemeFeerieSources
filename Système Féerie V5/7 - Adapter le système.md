@@ -6,7 +6,7 @@
 
 Le *Système Féerie* n’est pas un jeu en soi. Il lui manque un certain nombre de choses pour le devenir et toutes relèvent de deux choses : de l’univers et du style du jeu. Vous aurez donc besoin de le compléter et de l’adapter. Mais rassurez-vous, cette étape se fait très naturellement, car la pratique nous a montré que le *Système Féerie* s’avère très adaptable.
 
-## Les limitations du *Système Féerie*
+## Les limitations du Système Féerie
 
 Avant d’aller plus loin, il est important de bien comprendre que le *Système Féerie* a été conçu dans une certaine optique et qu’il ne convient pas pour n’importe quel jeu. Notamment l’accent a été mis sur la création d’une histoire à plusieurs, sans pour autant sortir du cadre du jeu de rôles.
 
@@ -40,8 +40,7 @@ Considérons la création des personnages en elle-même. La méthode descriptive
 
 Donnez leur une courte aide de jeu, résumant, un peu comme un glossaire, les informations importantes pour créer les personnages : l’histoire de l’univers, les principales factions, la géographie, etc. N’hésitez pas non plus à leur donner des listes d’éléments typique de l’univers que ce soient des carrières, du matériel, des factions, etc.
 
-Enfin, n’oubliez pas la création du groupe de personnage !
-
+----
 ## Gérer les particularités de l’univers en jeu
 
 Votre jeu possède très certainement des particularités qui lui sont propres : peut-être propose-t-il des actions qui n’existent pas dans la réalité, comme une magie ou des formes exotiques de piratage informatique ?
@@ -68,6 +67,7 @@ Les autres règles sont aussi modifiables : aussi bien dans leurs paramétrages
 
 Dans tous les cas, ne redirigez pas vos joueurs et meneurs vers ce présent document : il est particulièrement pénible de devoir jongler entre deux documents pour créer un personnage ou jouer. Pensez à vos meneurs qui en plus du support du scénario, doit aussi se référer au livre de votre jeu. Ne lui ajoutez pas un livre spécifiquement pour le *Système Féerie* : intégrez directement votre version de ces textes dans votre jeu !
 
+----
 ## L’équilibrage des personnages
 
 Une réaction de certains joueurs ou meneurs qui découvrent pour la première fois le *Système Féerie* vise l’équilibrage du jeu et plus particulièrement des personnages. Ce terme désigne principalement deux choses pour nous :

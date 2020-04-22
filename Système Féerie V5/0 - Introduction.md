@@ -74,6 +74,7 @@ Les troubles du déficit de l’attention avec ou sans hyperactivité touchent p
 
 Il existe aussi de nombreux handicaps mentaux qui peuvent gêner la compréhension des textes. Si votre jeu cible les personnes ayant un handicap mental, faites attentions au niveau de langue et à la complexité des phrases. Par exemple, ce présent document leur serait simplement hors d’atteinte. Cette contrainte particulièrement forte est sans doute l’une des plus difficiles à prendre en compte simplement. Si vous adaptez vos textes et concepts à ce public, notez que votre jeu sera aussi accessible aux personnes qui apprennent encore la langue. Le niveau de langue est aussi un élément à prendre en compte si vous visez un public très jeune.
 
+----
 ## Crédits
 
 Auteur et concepteur :

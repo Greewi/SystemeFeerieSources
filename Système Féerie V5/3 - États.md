@@ -34,8 +34,6 @@ Pour les états les plus graves, il peut même être intéressant de dédier une
 
 *Poursuivons notre exemple : Feyn veut effectuer une action pour laquelle il a besoin de ses deux mains. Thoss peut tenter une action pour rattraper son lien et raccrocher la ligne de vie de son compagnon. S’il réussit son action, Feyn sera à nouveau assuré par son lien et perdra l’état « Décroché ». S’il échoue en revanche…*
 
-----
-
 ## Effets des états
 
 Les états ne sont pas seulement des mots clés décrivant la situation de votre personnage. Ils ont aussi un effet sur vos actions. Tout d’abord, si un état est susceptible d’aider votre personnage dans une action, vous pouvez l’utiliser comme n’importe quel autre élément de votre personnage.

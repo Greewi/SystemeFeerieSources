@@ -1,0 +1,57 @@
+{
+    "titre": "Système Féerie",
+    "auteur": "Sylvain « Greewi » Dumazet et Morvan",
+    "description": "Un système simple et adaptable pour le jeu de rôles",
+    "structure": [
+        {
+            "source": "Couverture.png",
+            "style": "couverture",
+            "niveau": 1
+        },
+        {
+            "source": "",
+            "style": "sommaire",
+            "niveau": 1
+        },
+        {
+            "source": "0 - Introduction.md",
+            "style": "article",
+            "niveau": 2
+        },
+        {
+            "source": "1 - Règles générales.md",
+            "style": "article",
+            "niveau": 2
+        },
+        {
+            "source": "2 - Résolution des actions.md",
+            "style": "article",
+            "niveau": 2
+        },
+        {
+            "source": "3 - États.md",
+            "style": "article",
+            "niveau": 2
+        },
+        {
+            "source": "4 - Modifications scénaristiques.md",
+            "style": "article",
+            "niveau": 2
+        },
+        {
+            "source": "5 - Création des personnages.md",
+            "style": "article",
+            "niveau": 2
+        },
+        {
+            "source": "6 - Évolution des personnages.md",
+            "style": "article",
+            "niveau": 2
+        },
+        {
+            "source": "7 - Adapter le système.md",
+            "style": "article",
+            "niveau": 2
+        }
+    ]
+}

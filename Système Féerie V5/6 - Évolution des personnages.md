@@ -49,6 +49,7 @@ Lors de la création de l’intrigue, il n’est pas nécessaire de définir tou
 
 Par la suite, à chaque fois qu’une étape est accomplie, le joueur détermine l’étape suivante. La dernière étape doit évidemment permettre d’accomplir l’objectif de l’intrigue.
 
+----
 ## Faire avancer son intrigue
 
 Les intrigues de progression peuvent progresser à différents moments, en fonction de la nature de la série et de son déroulement :
@@ -65,6 +66,7 @@ La seconde méthode permet de ne pas prendre de temps sur la séance. Si la tabl
 
 En fonction du jeu, et plus particulièrement des parties qui seront jouées avec, l’une des deux méthodes peut être préférable. Dans le cas des jeux bac à sable où l’histoire est dirigée par les objectifs personnels des personnages qui agissent de façon proactive, nous vous conseillons d’utiliser les intrigues de progression comme l’un des moteurs de la partie. Dans le cas des jeux à mission où il est préférable que les personnages ne s’éparpillent pas, la seconde méthode sera sans doute la mieux venue.
 
+----
 ## Terminer une intrigue
 
 Pour mettre fin à l’intrigue de progression de votre personnage, vous avez deux possibilités :
@@ -92,6 +94,7 @@ Il peut être intimidant pour un joueur de construire une intrigue lui-même. Bi
 * pour obtenir du matériel normalement réglementé à 1 ;
 * étape 1 : *faire un marché avec une organisation criminelle*.
 
+----
 **Améliorer un outil** :
 * pour améliorer un outil de 1 à 3 ;
 * étape 1 : *trouver et contacter un spécialiste du domaine* ;

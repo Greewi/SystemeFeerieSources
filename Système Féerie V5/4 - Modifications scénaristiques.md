@@ -16,6 +16,7 @@ Nous vous recommandons de donner trois points à chaque personnage au début d�
 
 >> Certains meneurs peuvent aussi s’en servir pour récompenser certaines actions ou en récompense à la fin d’un arc ou d’une séance. Nous vous conseillons dans ce cas de réduire le nombre obtenus en début de séance. Une autre solution consiste aussi à ne pas permettre de les conserver d’une séance sur l’autre.
 
+----
 ## Faire une modification
 
 Pour faire une modification dans l’histoire, commencez par payer un point de personnage pour une modification majeure. Les modifications mineures sont gratuites.

@@ -78,6 +78,12 @@ Toutes ces questions peuvent sembler un peu intimidantes, mais n’oubliez pas 
 >>
 >> Si vous ne connaissez pas encore l’univers, vous aurez sans doute du mal pour créer votre personnage. Commencez par regarder les archétypes ou les personnages prétirés qui sont normalement fournis avec le jeu. Si l’univers du jeu provient d’une d’une fiction, vous pouvez aussi vous inspirer des personnages qui y apparaissent. Les autres participants devraient aussi pouvoir vous aider. N’hésitez pas non plus à demander quelques résumés de l’univers à votre meneur.
 
+>> ### Adaptation : les aides de jeu
+>>
+>> Si vous utilisez le Système Féerie avec un univers original, vos joueurs n’auront probablement pas beaucoup de point de référence. Dans ce cas, nous vous recommandons de créer une liste d’archétypes et quelques personnages prétirés pour leur donner une idée claire de ce que sont des personnages types dans l’univers de votre jeu.
+>>
+>> Par ailleurs, préparez un résumé de votre univers qui présente en quelques paragraphes le monde, éventuellement associé à une courte chronologie sur une seconde page si nécessaire. Cette dernière aide de jeu peut aussi être très pratique en partie. Un petit glossaire sur la troisième page et une carte sur la dernière compléteront généralement votre petite aide de jeu.
+
 >> ### Adaptation : découper la description
 >>
 >> Lors de la conception de la fiche de personnage, réfléchissez bien au découpage de la description du personnage. Nous proposons ici un découpage en Identité, Description Physique, Comportement et Histoire. Mais en fonction de votre jeu, ce découpage peut ne pas du tout être adapté. Pourquoi une section Histoire si les personnages sont des patients amnésiques d’une maison de soin ? Pour Solaires, les personnages ont aussi un avatar qui les représente sur la réalité virtuelle et augmentée. Dans les Contes de l’Entremondes, les fées possèdent un domaine qu’il faut aussi décrire.
@@ -85,12 +91,6 @@ Toutes ces questions peuvent sembler un peu intimidantes, mais n’oubliez pas 
 >> Pour chaque partie, définissez les informations que vous souhaitez et formulez-les sous forme de petites questions comme nous l’avons fait ici. Cela peut beaucoup aider les joueurs !
 >>
 >> Réfléchissez à ce qui est pertinent pour votre jeu et n’ajoutez pas des détails inutiles : ceci rendrait la description plus longue à remplir. D’ailleurs, nous ne connaissons personne qui se soit jamais exclamé « Chouette ! », quand le meneur leur a annoncé en début de partie : « Sortez une copie double et décrivez votre personnage. Vous avez deux heures. ». Ou alors c’était de l’ironie.
-
->> ### Adaptation : les aides de jeu
->>
->> Si vous utilisez le Système Féerie avec un univers original, vos joueurs n’auront probablement pas beaucoup de point de référence. Dans ce cas, nous vous recommandons de créer une liste d’archétypes et quelques personnages prétirés pour leur donner une idée claire de ce que sont des personnages types dans l’univers de votre jeu.
->>
->> Par ailleurs, préparez un résumé de votre univers qui présente en quelques paragraphes le monde, éventuellement associé à une courte chronologie sur une seconde page si nécessaire. Cette dernière aide de jeu peut aussi être très pratique en partie. Un petit glossaire sur la troisième page et une carte sur la dernière compléteront généralement votre petite aide de jeu.
 
 ## Les éléments
 
@@ -154,6 +154,7 @@ Voici les catégories et leurs échelles d’évaluation.
 >>
 >> Si malgré tout certains joueurs ne sont pas à l’aise avec ce concept, vous pouvez appliquer la règle suivante : ils peuvent affecter un score de 3 à un élément, un score de 2 à quatre éléments et un score de 1 aux autres.
 
+----
 ## Créer autre chose que des personnages
 
 Vous aurez peut-être besoin de créer d’autre choses que des personnages. Par exemple, une monture, un vaisseau spatial, un quartier général, etc. La création de telles entités est très largement permise par le *Système Féerie* et ne diffère pas de la création des personnages et vous pouvez proposer les mêmes méthodes de création que les personnages. Bien entendu, elles ne possèdent pas toutes les catégories d’éléments des personnages, et peuvent même posséder des catégories propres.

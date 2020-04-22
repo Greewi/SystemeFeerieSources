@@ -45,6 +45,7 @@ La difficulté intrinsèque représente la difficulté « objective » dans l�
 
 L’intérêt scénaristique est évalué sur l’intérêt du résultat de l’action. Est-ce que l’échec ou la réussite de l’action est intéressant ? Il s’agit d’un avis qui peut être plus subjectif mais qui contribue à orienter l’histoire vers un déroulement plus intéressant qu’en ne laissant que le hasard faire. Toutefois, le meneur doit éviter de s’en servir exclusivement pour coller au scénario préparé.
 
+----
 Échelle d’intérêt scénaristique :
 * Devrait réussir (+4) : l’échec de l’action engendrerait une situation particulièrement inintéressante ;
 * Réussite intéressante (+2) : la réussite de cette action conduira à une situation plus intéressante que l’échec ;
@@ -66,6 +67,7 @@ Si l’action est typique pour cet élément – par exemple soigner quelqu’un
 
 *Exemple : Nicolas choisi la carrière « Decker » de son personnage Downlink pour effectuer un piratage. Comme l’action est typique pour cette carrière, il peut choisir un second élément. Il choisit alors sa « Console de décryptage modifiée » en plus. Même si cet élément est aussi typique, il ne peut pas en choisir un troisième.*
 
+----
 ## Résolution de l’action
 
 Pour commencer le jet de résolution, ajoutez la difficulté au score des éléments que vous avez choisis. Ce sera le score à battre.
@@ -93,6 +95,7 @@ De plus, si vous aviez indiqué un état handicapant au moment de choisir les é
 >> * Pour battre **4**, on a **25 %** de chance de **rater**;
 >> * Pour battre **5**, on a **7 %** de chance de **rater**.
 
+----
 ## Conséquences de l’action
 
 Une fois l’action résolue, le meneur peut décrire les conséquences de l’action. Généralement, cela consiste à acter ce qui avait été déterminé au moment de déclarer l’action.
@@ -112,6 +115,7 @@ Pour les effets en faveur des PJ, nous vous proposons ces exemples :
 
 Notez que vous pouvez effectuer une modification scénaristique pour décrire vous-mêmes les conséquences directes de l’action, mais cette possibilité est soumise au veto des autres participants. Dans cette description, essayez d’impliquer au mieux les éléments que vous avez utilisés et respectez l’échec ou la réussite de l’action. De plus, vous devez conserver les effets secondaires. Par exemple, vous ne pouvez pas décrire une contrepartie bénéfique si le résultat de la résolution n’en comporte pas, ni passer sous silence un effet secondaire défavorable.
 
+----
 ## Cas particuliers
 
 Les règles de résolution gèrent toutes les situations et actions que vous rencontrerez. Malgré tout, il existe quelques cas où le meneur peut rechercher des règles plus précises :
@@ -135,7 +139,7 @@ La difficulté (**-2**) et les deux éléments (**2** et **3**) choisis, le scor
 
 Justine décrit alors ce qui se produit : aidé par Downlink qui brouille sa présence sur le réseau, Razors parvient à pénétrer dans le chantier spatial. Elle y aperçoit leur suspect qui semble travailler sur le câblage d’une batterie de navette.
 
-### Règle optionnelle : Aléatoire dans l’environnement
+## Règle optionnelle : Aléatoire dans l’environnement
 
 Durant une partie typique, le meneur ne lance jamais les dés. Pourtant, dans certains cas, vous pouvez vouloir recourir à l’aléatoire pour déterminer le déroulement de certains événements sur lesquels les personnages joueurs n’ont pas de prise.
 
@@ -152,7 +156,7 @@ S’il reste au moins deux dés, alors le résultat sera favorable aux personnag
 
 >> Vous pourriez être tentés d’utiliser cette règle pour faire agir les adversaires des personnages des joueurs, par exemple lors d’une embuscade qui est tendue à ces derniers. Ce n’est que rarement une bonne idée. Si l’action d’un personnage non-joueur agit sur le personnage d’un joueur, faites faire un jet d’action au joueur en réaction.
 
-### Règle optionnelle : Jets en opposition
+## Règle optionnelle : Jets en opposition
 
 Normalement, le meneur n’a jamais besoin de lancer les dés. Que ce soit pour négocier, se battre ou même pirater, l’action est toujours à l’initiative des joueurs. Si un personnage joueur attaque un PNJ, la riposte du PNJ se trouve dans l’échec de l’action. Si un personnage joueur est attaqué, son action sera probablement de se mettre à couvert ou de se défendre, mais aussi de riposter. Il est aussi possible d’associer la riposte ou la survie d’un personnage aux effets secondaires d’une action.
 
