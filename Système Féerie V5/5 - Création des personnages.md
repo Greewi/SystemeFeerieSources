@@ -10,7 +10,7 @@ Pour créer vos personnages, vous disposez de plusieurs méthodes que nous décr
 
 Avant même de considérer les mécaniques du système de jeu, un personnage est fait d’idées et de mots : par son concept, ses descriptions, son histoire, etc. Lorsqu’un personnage est introduit dans une histoire, ce sont ces aspects qui importent. C’est aussi ce qui sert normalement de base lors de la création d’un personnage avec le *Système Féerie*.
 
-D’un point de vue plus mécanique, ces règles ne vous proposeront pas un ensemble de caractéristiques communes à tous les personnages, définies à l’avance, comme vous pouvez en avoir l’habitude dans d’autres jeux de rôles. Le *Système Féerie* dispose d’une structure beaucoup plus libre qui repose principalement sur les éléments du personnage, des sortes de mot-clé chiffrés. Ceux-ci sont directement extraits de ces descriptions initiales.
+D’un point de vue plus mécanique, ces règles ne vous proposeront pas un ensemble de caractéristiques communes à tous les personnages et définies à l’avance, comme vous pouvez en avoir l’habitude dans d’autres jeux de rôles. Le *Système Féerie* dispose d’une structure beaucoup plus libre qui repose principalement sur les éléments du personnage, des sortes de mot-clé chiffrés. Ceux-ci sont directement extraits de ces descriptions initiales.
 
 C’est cette façon de procéder qui permet au système féerie de donner plus de matière au personnage et d’en faire bien plus qu’un simple tas de chiffres.
 

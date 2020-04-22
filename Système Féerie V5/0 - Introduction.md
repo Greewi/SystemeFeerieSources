@@ -21,7 +21,7 @@ Ceci a pour conséquences un certains nombre de choix. Pour commencer, ce systè
 
 Ensuite, dans cette optique descriptive, les règles ne décrivent que des mécaniques de résolution mais sans imposer des règles pour fixer les conséquences (par exemple, il n’y a pas de gestion précise de la santé dans le corpus de règles du *Système Féerie*). Dans ce cadre, ce n’est plus au système de jeu de déterminer précisément comment l’action doit se comporter, mais aux participants. Ceci impose aussi que les règles de résolution ne fassent aucune distinction sur la nature des actions à résoudre : pas de spécificité pour, par exemple, le combat ou la magie.
 
-Enfin, le *Système Féerie* met une partie du pouvoir narratif entre les mains des joueurs qui leur permettent d'insérer des modifications directement dans l'histoire. Par exemple, ils peuvent décrire eux même, sous certaines conditions, le résultat des actions de leur personnage, ou encore modifier, lier ou introduire des éléments scénaristiques. Et ceci grâce aux modifications scénaristiques.
+Enfin, le *Système Féerie* met une partie du pouvoir narratif entre les mains des joueurs qui leur permettent d’insérer des modifications directement dans l’histoire. Par exemple, ils peuvent décrire eux même, sous certaines conditions, le résultat des actions de leur personnage, ou encore modifier, lier ou introduire des éléments scénaristiques. Et ceci grâce aux modifications scénaristiques.
 
 Ce système a été conçu pour être simple et rapide à prendre en main. Comme il a été principalement développé pour *Solaires*, il se destine principalement les jeux d’aventures.
 

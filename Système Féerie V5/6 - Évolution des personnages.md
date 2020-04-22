@@ -17,7 +17,7 @@ Une intrigue de progression est définie par plusieurs choses :
 
 Lorsque vous créez votre personnage, vous définirez la première intrigue de votre personnage. Ensuite, à chaque fois que vous terminez l’intrigue de votre personnage, vous en définirez une nouvelle.
 
->> Les intrigues dont il est question ici concernent avant tout la progression de votre personnage. Il est tout à fait possible qu'un personnage ait des objectifs particuliers qui ne peuvent pas correspondre à une intrigue de progression mais soit malgré tout un arc de la série à part entière.
+>> Les intrigues dont il est question ici concernent avant tout la progression de votre personnage. Il est tout à fait possible qu’un personnage ait des objectifs particuliers qui ne peuvent pas correspondre à une intrigue de progression mais soit malgré tout un arc de la série à part entière.
 
 ## La récompense
 
@@ -61,9 +61,9 @@ Si c’est la première méthode qui est choisie, vous essaierez de faire avance
 
 La seconde méthode permet de ne pas prendre de temps sur la séance. Si la table comporte beaucoup de joueurs ou si vos séances sont courtes, vous n’aurez sans doute pas assez de temps pour traiter les intrigues pendant la partie. Dans ce cas, vous pouvez gérer l’intégralité des intrigues entre les séances. Dans cette situation, le joueur doit, en plus de définir l’étape suivante, indiquer au meneur comment son personnage a procédé. Si le meneur le valide, le personnage passe à l’étape suivante, sinon le joueur peut soumettre une nouvelle proposition. Grâce à cette méthode, vous pouvez continuer à donner vie au personnage entre chaque épisode.
 
->> Comme vous pouvez le remarquer, ce système est équivalent à donner un « point de progression » aux personnages à la fin de chaque séance en considérant que le coût des améliorations est équivalent au nombre d’étapes. Toutefois, cette méthode donne plus de sens à la progression du personnage et réduit le côté artificiel de l'opération.
+>> Comme vous pouvez le remarquer, ce système est équivalent à donner un « point de progression » aux personnages à la fin de chaque séance en considérant que le coût des améliorations est équivalent au nombre d’étapes. Toutefois, cette méthode donne plus de sens à la progression du personnage et réduit le côté artificiel de l’opération.
 
-En fonction du jeu, et plus particulièrement des parties qui seront jouées avec, l’une des deux méthodes peut être préférable. Dans le cas des jeux bac à sable où l’histoire est dirigée par les objectifs personnels des personnages qui agissent de façon proactive, nous vous conseillons d’utiliser les intrigues de progression comme l'un des moteurs de la partie. Dans le cas des jeux à mission où il est préférable que les personnages ne s’éparpillent pas, la seconde méthode sera sans doute la mieux venue.
+En fonction du jeu, et plus particulièrement des parties qui seront jouées avec, l’une des deux méthodes peut être préférable. Dans le cas des jeux bac à sable où l’histoire est dirigée par les objectifs personnels des personnages qui agissent de façon proactive, nous vous conseillons d’utiliser les intrigues de progression comme l’un des moteurs de la partie. Dans le cas des jeux à mission où il est préférable que les personnages ne s’éparpillent pas, la seconde méthode sera sans doute la mieux venue.
 
 ## Terminer une intrigue
 

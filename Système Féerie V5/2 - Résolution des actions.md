@@ -2,7 +2,7 @@
 
 > *« À l’avenir, ils craindront les répercussions de leurs actions avant même de les mettre en œuvre. »*
 >
-> Marth, IA militaire de Vranberg-Lytan
+> Marth, IA militaire de la Fédération de Sol
 
 Inévitablement, vous finirez par vous demander si une action réussit ou échoue. Certaines actions critiques peuvent altérer considérablement la suite de la partie selon que votre personnage parvient ou non à ses fins. C’est là qu’interviennent les règles de résolution des actions.
 
@@ -97,7 +97,7 @@ De plus, si vous aviez indiqué un état handicapant au moment de choisir les é
 
 Une fois l’action résolue, le meneur peut décrire les conséquences de l’action. Généralement, cela consiste à acter ce qui avait été déterminé au moment de déclarer l’action.
 
-Des effets secondaires peuvent survenir, mais ils ne doivent pas remettre en question la réussite ou l’échec de l’action ni la moduler directement. C’est notamment le cas si votre personnage avait un état handicapant et que vous n’aviez pas conservé strictement plus de dés que le score de cet état.
+Des effets secondaires peuvent survenir, mais ils ne doivent pas remettre en question la réussite ou l’échec de l’action ni la moduler directement. Généralement, leur possibilité sera annoncée par le meneur avant de lancer les dés, mais il peut s’agit d’une surprise.
 
 Voici quelques exemples d’effets secondaires en défaveur des PJ :
 * **plus de ressources consommées** : le personnage a perdu beaucoup de temps, il a endommagé ses outils, il a utilisé trop de munitions, etc. ;
@@ -133,7 +133,7 @@ Sophie propose d’utiliser son *Camouflage thermo-optique (2)* pour cette actio
 
 La difficulté (**-2**) et les deux éléments (**2** et **3**) choisis, le score à battre est de **3** (2+3-2). Sophie lance les trois dés qui font **5**, **2** et **3**. Elle conserve donc deux dés : c’est une réussite.
 
-Justine décrit alors ce qui se produit : aidé par Downlink qui brouille sa présence sur le réseau, Razors parvient à pénétrer dans le chantier spatial. Elle y aperçoit leur suspect qui semble travailler sur le cablage d’une batterie de navette.
+Justine décrit alors ce qui se produit : aidé par Downlink qui brouille sa présence sur le réseau, Razors parvient à pénétrer dans le chantier spatial. Elle y aperçoit leur suspect qui semble travailler sur le câblage d’une batterie de navette.
 
 ### Règle optionnelle : Aléatoire dans l’environnement
 
@@ -148,7 +148,7 @@ Comme pour la résolution des actions, le jet utilisera les trois dés comparés
 
 S’il reste au moins deux dés, alors le résultat sera favorable aux personnages joueurs, sinon il leur sera défavorable.
 
-*Par exemple, une bataille spatiale entre des forces de Suan et Aesir fait rage à l’extérieur, ce pendant que les personnages joueurs tentent de démêler la situation diplomatique. Le meneur souhaite savoir quel sens la bataille prend. Il utilise donc cette règle et choisi un score de 3, n’ayant pas d’envie scénaristique particulière. Il lance les dés et fait 4, 3 et 1 : il reste deux dés. Comme les personnages joueurs sont en meilleurs termes avec Suan, la bataille commence donc à tourner en faveur du camp de ceux-ci et l’un des vaisseaux d’Aesir a été sévèrement touché.*
+*Par exemple, une bataille spatiale entre des forces de Suan et Waylanders fait rage à l’extérieur, ce pendant que les personnages joueurs tentent de démêler la situation diplomatique. Le meneur souhaite savoir quel sens la bataille prend. Il utilise donc cette règle et choisi un score de 3, n’ayant pas d’envie scénaristique particulière. Il lance les dés et fait 4, 3 et 1 : il reste deux dés. Comme les personnages joueurs sont en meilleurs termes avec Suan, la bataille commence donc à tourner en faveur du camp de ceux-ci et l’un des vaisseaux de Waylanders a été sévèrement touché.*
 
 >> Vous pourriez être tentés d’utiliser cette règle pour faire agir les adversaires des personnages des joueurs, par exemple lors d’une embuscade qui est tendue à ces derniers. Ce n’est que rarement une bonne idée. Si l’action d’un personnage non-joueur agit sur le personnage d’un joueur, faites faire un jet d’action au joueur en réaction.
 

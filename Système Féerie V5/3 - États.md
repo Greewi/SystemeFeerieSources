@@ -16,7 +16,7 @@ Comme les autres éléments, vous devez leur donner un score en fonction des est
 * **Insignifiant (0)** : l’état n’a aucune incidence sur le comportement ou les actions du personnage. *Par Exemple : Tache de peinture sur la main.*
 * **Léger (1)** : l’état peut être ignoré par le personnage dans la plupart des cas. *Par exemple : Légère nausée, Petite écorchure, Encouragé.*
 * **Important (2)** : l’état doit être pris en compte par le personnage pour la plupart de ses actions. *Par exemple : Épaule déboîtée, Lien d’EVA rompu, Dopé.*
-* **Critique (3)** : l’état est déterminant pour le personnage à court termes. *Par exemple : Hémorragie importante, Noyau piraté, Contrôle absolu du système.*
+* **Critique (3)** : l’état est déterminant pour le personnage à court terme. *Par exemple : Hémorragie importante, Noyau piraté, Contrôle absolu du système.*
 
 ## Obtenir et perdre un état
 
@@ -42,11 +42,11 @@ Les états ne sont pas seulement des mots clés décrivant la situation de votre
 
 Mais tous les états ne vous seront pas favorables. Si un de vos états est potentiellement handicapant pour une action, votre meneur devra en tenir compte lors de la résolution de l’action. Nous lui conseillons donc de les noter de son côté.
 
-Concrètement, lors de la résolution de l’action, votre meneur aura plusieurs façons d'utiliser ces états :
-* L'état peut affecter la difficulté intrinsèque de l'action, la rendant généralement plus difficile.
-* L'état peut être la source d'effet secondaires supplémentaires lors de l'action. Généralement, il s'agit d'une complication de la situation, d’une aggravation de l’état, etc. Le meneur devrait vous indiquer ces potentiels effets secondaires au moment de décider de l'action. Il peut d'ailleurs les conditionner à un certain nombre de dés conservés.
+Concrètement, lors de la résolution de l’action, votre meneur aura plusieurs façons d’utiliser ces états :
+* L’état peut affecter la difficulté intrinsèque de l’action, la rendant généralement plus difficile.
+* L’état peut être la source d’effet secondaires supplémentaires lors de l’action. Généralement, il s’agit d’une complication de la situation, d’une aggravation de l’état, etc. Le meneur devrait vous indiquer ces potentiels effets secondaires au moment de décider de l’action. Il peut d’ailleurs les conditionner à un certain nombre de dés conservés.
 
-*Par exemple, Feyn qui a l’état « Décroché (2) », tente une réparation sur le connecteur qui sert à raccorder son vaisseau à la station de ravitaillement. La meneuse lui indique que s'il ne conserve pas les trois dés, un effet secondaire négatif surviendra. Après le lancé de dés, le joueur de Feyn ne conserve que deux dés. Son action réussie et le connecteur est bien réparé. Mais comme il n'a pas conservé les trois dés, la complication survient : Feyn sous l’effort pour refermer l’attache, perd prise et Thoss le voit partir à la dérive, tournant sur lui-même, non sans quelques jurons.*
+*Par exemple, Feyn qui a l’état « Décroché (2) », tente une réparation sur le connecteur qui sert à raccorder son vaisseau à la station de ravitaillement. La meneuse lui indique que s’il ne conserve pas les trois dés, un effet secondaire négatif surviendra. Après le lancé de dés, le joueur de Feyn ne conserve que deux dés. Son action réussie et le connecteur est bien réparé. Mais comme il n’a pas conservé les trois dés, la complication survient : Feyn sous l’effort pour refermer l’attache, perd prise et Thoss le voit partir à la dérive, tournant sur lui-même, non sans quelques jurons.*
 
 ## Exemples d’états
 
