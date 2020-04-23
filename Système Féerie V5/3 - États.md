@@ -20,7 +20,7 @@ Comme les autres éléments, vous devez leur donner un score en fonction des est
 
 ## Obtenir et perdre un état
 
-Certaines actions impacteront un personnage temporairement. Il est ainsi possible qu’un personnage obtienne un avantage situationnel ou reçoive une altération bénéfique. Ceci est notamment possible si le personnage subit un effet secondaire positif ou une aide extérieur.
+Certaines actions impacteront un personnage temporairement. Il est ainsi possible qu’un personnage obtienne un avantage situationnel ou reçoive une altération bénéfique. Ceci est notamment possible si le personnage subit un effet secondaire positif ou une aide extérieure.
 
 *Par exemple, alors qu’il prépare une sortie spatiale, Thoss, un soldat, décide de prendre un produit pour lutter contre la désorientation de l’apesanteur et l’aider à se concentrer. Il obtient l’état « Dopé (2) ».*
 
@@ -44,7 +44,7 @@ Concrètement, lors de la résolution de l’action, votre meneur aura plusieurs
 * L’état peut affecter la difficulté intrinsèque de l’action, la rendant généralement plus difficile.
 * L’état peut être la source d’effet secondaires supplémentaires lors de l’action. Généralement, il s’agit d’une complication de la situation, d’une aggravation de l’état, etc. Le meneur devrait vous indiquer ces potentiels effets secondaires au moment de décider de l’action. Il peut d’ailleurs les conditionner à un certain nombre de dés conservés.
 
-*Par exemple, Feyn qui a l’état « Décroché (2) », tente une réparation sur le connecteur qui sert à raccorder son vaisseau à la station de ravitaillement. La meneuse lui indique que s’il ne conserve pas les trois dés, un effet secondaire négatif surviendra. Après le lancé de dés, le joueur de Feyn ne conserve que deux dés. Son action réussie et le connecteur est bien réparé. Mais comme il n’a pas conservé les trois dés, la complication survient : Feyn sous l’effort pour refermer l’attache, perd prise et Thoss le voit partir à la dérive, tournant sur lui-même, non sans quelques jurons.*
+*Par exemple, Feyn qui a l’état « Décroché (2) », tente une réparation sur le connecteur qui sert à raccorder son vaisseau à la station de ravitaillement. La meneuse lui indique que s’il ne conserve pas les trois dés, un effet secondaire négatif surviendra. Après le lancer de dés, le joueur de Feyn ne conserve que deux dés. Son action réussie et le connecteur est bien réparé. Mais comme il n’a pas conservé les trois dés, la complication survient : Feyn sous l’effort pour refermer l’attache, perd prise et Thoss le voit partir à la dérive, tournant sur lui-même, non sans quelques jurons.*
 
 ## Exemples d’états
 
@@ -65,4 +65,4 @@ Ensuite, voici quelques exemples d’état négatifs :
 * **Isolé (2)** : le personnage est isolé et ne peut pas communiquer avec les autres, notamment s’il est victime d’un brouillage ;
 * **Malade (2)** : le personnage a contracté une maladie ;
 * **Nauséeux (1)** : le personnage a la nausée après avoir été éjecté de réalité virtuelle ou à cause d’un changement de gravité ;
-* **Paniqué (3)** : le personnage a perdu son sang froid et cède à la panique.
+* **Paniqué (3)** : le personnage a perdu son sang-froid et cède à la panique.

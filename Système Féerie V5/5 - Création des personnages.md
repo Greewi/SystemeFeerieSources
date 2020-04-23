@@ -46,8 +46,8 @@ Maintenant que vous avez défini le groupe, passons à la création de votre per
 ## Le concept
 
 Pour commencer la création de votre personnage, il vous faut son concept. Il s’agit de la base du personnage et il devrait permettre d’avoir une première idée de votre personnage sur ce qu’il est et ce qu’il peut faire. Voici quelques exemples de concept de personnage pris dans divers univers :
-* Un astronaute dans une enveloppe de raton laveur antropomorphe.
-* Une ranger elfe peu locace.
+* Un astronaute dans une enveloppe de raton laveur anthropomorphe.
+* Une ranger elfe peu loquace.
 * Un prestidigitateur anglais très charismatique.
 * Un tirailleur sénégalais vétéran.
 * Une fée, agente des gardiennes.
@@ -76,7 +76,7 @@ Toutes ces questions peuvent sembler un peu intimidantes, mais n’oubliez pas 
 
 >> ### Comprendre l’univers du jeu
 >>
->> Si vous ne connaissez pas encore l’univers, vous aurez sans doute du mal pour créer votre personnage. Commencez par regarder les archétypes ou les personnages prétirés qui sont normalement fournis avec le jeu. Si l’univers du jeu provient d’une d’une fiction, vous pouvez aussi vous inspirer des personnages qui y apparaissent. Les autres participants devraient aussi pouvoir vous aider. N’hésitez pas non plus à demander quelques résumés de l’univers à votre meneur.
+>> Si vous ne connaissez pas encore l’univers, vous aurez sans doute du mal pour créer votre personnage. Commencez par regarder les archétypes ou les personnages prétirés qui sont normalement fournis avec le jeu. Si l’univers du jeu provient d’une fiction, vous pouvez aussi vous inspirer des personnages qui y apparaissent. Les autres participants devraient aussi pouvoir vous aider. N’hésitez pas non plus à demander quelques résumés de l’univers à votre meneur.
 
 >> ### Adaptation : les aides de jeu
 >>
@@ -118,7 +118,7 @@ Voici les catégories et leurs échelles d’évaluation.
 * **Insignifiant (0)** : un trait de personnalité qui n’a aucun impact sur les décisions ou le comportement du personnage.
 * **Mineur (1)** : le personnage peut ignorer ce trait de personnalité sans grand effort.
 * **Important (2)** : un trait de personnalité que le personnage a beaucoup de mal à ignorer et qui intervient dans de nombreuses situations.
-* **Impératif (3)** : le personnage remettra jamais en question ce trait de personnalité qui gouverne intégralement sa vie.
+* **Impératif (3)** : le personnage ne remettra jamais en question ce trait de personnalité qui gouverne intégralement sa vie.
 
 **Les carrières (C)** représentent les métiers, formations, loisirs et autres occupations du personnage. En cours de jeu, n’oubliez pas que celles-ci incluent aussi des relations anonymes, par exemple des collègues, des fournisseurs, des employeurs, etc. Pour les évaluer, voici les correspondances :
 * **Profane (0)** : le personnage n’a jamais pratiqué ou étudié cette carrière.
@@ -136,7 +136,7 @@ Voici les catégories et leurs échelles d’évaluation.
 * **Ordinaire ou Standard (0)** : le matériel standard, qu’il soit spécialisé ou non.
 * **Amélioré ou spécial (1)** : le matériel amélioré, modifié ou personnalisé que possèdent les spécialistes.
 * **À la pointe de la technologie (2)** : le matériel à la pointe de la technologie, ce qui se fait de mieux.
-* **Magique (2, variante)** : la matériel est enchanté ou magique.
+* **Magique (2, variante)** : le matériel est enchanté ou magique.
 * **Prochaine génération (3)**. : le matériel expérimental destiné à remplacer le matériel actuel lorsqu’il sera finalisé. On trouve principalement des prototypes ou les outils de certains technophiles les plus investis.
 * **Artefact légendaire (3, variante)** : le matériel est un artefact légendaire et unique et possède une grande puissance.
 

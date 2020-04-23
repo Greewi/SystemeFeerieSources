@@ -106,7 +106,7 @@ Il peut être intimidant pour un joueur de construire une intrigue lui-même. Bi
 **Infiltrer une organisation** :
 * pour obtenir une relation dans une organisation avec un score de 2 ;
 * étape 1 : *se faire remarquer par l’organisation* ;
-* étape 2 : *se faire recruter par l’organisation et y effectuer une tâche*.
+* étape 2 : *se faire recruter par l’organisation et y effectuer une tâche* ;
 * étape 3 : *rendre un service permettant de gagner la confiance de l’organisation*.
 
 **Sauver un VIP** :
