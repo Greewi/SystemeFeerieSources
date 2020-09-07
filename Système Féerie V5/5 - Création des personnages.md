@@ -118,7 +118,7 @@ Voici les catégories et leurs échelles d’évaluation.
 * **Insignifiant (0)** : un trait de personnalité qui n’a aucun impact sur les décisions ou le comportement du personnage.
 * **Mineur (1)** : le personnage peut ignorer ce trait de personnalité sans grand effort.
 * **Important (2)** : un trait de personnalité que le personnage a beaucoup de mal à ignorer et qui intervient dans de nombreuses situations.
-* **Impératif (3)** : le personnage ne remettra jamais en question ce trait de personnalité qui gouverne intégralement sa vie.
+* **Impérieux (3)** : le personnage interprète toutes les situations au travers ce trait de personnalité. Nous déconseillons fortement des traits de personnalité à ce niveau car ils restreignent trop fortement les choix du joueur.
 
 **Les carrières (C)** représentent les métiers, formations, loisirs et autres occupations du personnage. En cours de jeu, n’oubliez pas que celles-ci incluent aussi des relations anonymes, par exemple des collègues, des fournisseurs, des employeurs, etc. Pour les évaluer, voici les correspondances :
 * **Profane (0)** : le personnage n’a jamais pratiqué ou étudié cette carrière.
