@@ -49,11 +49,11 @@ L’intérêt scénaristique est évalué sur l’intérêt du résultat de l’
 
 ----
 Échelle d’intérêt scénaristique :
-* Devrait réussir (+4) : l’échec de l’action engendrerait une situation particulièrement inintéressante ;
+* Devrait réussir (+4) : l’échec de l’action engendrerait une situation indésirable ;
 * Réussite intéressante (+2) : la réussite de cette action conduira à une situation plus intéressante que l’échec ;
 * Neutre (0) : la réussite et l’échec sont aussi (in)intéressants l’un que l’autre ;
 * Échec intéressant (-2) : l’échec de cette action conduira à une situation plus intéressante que sa réussite ;
-* Devrait échouer (-4) : la réussite de cette action engendrerait une situation particulièrement inintéressante.
+* Devrait échouer (-4) : la réussite de cette action engendrerait une situation indésirable.
 
 Notez que si le meneur juge une action impossible (ou triviale), il ne fait pas faire un jet de dés : l’action échoue (ou réussie) automatiquement sans Effet secondaire. Ce sera aussi le cas si le score à battre par le joueur est supérieur à 5 ou inférieur à 1.
 
