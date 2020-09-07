@@ -34,6 +34,8 @@ De plus, tant que vous n’avez pas lancé les dés, vous êtes libre de revenir
 
 Le meneur évalue ensuite la difficulté de l’action. Pour y parvenir, il peut se servir de deux échelles de difficulté, l’une évaluant la difficulté intrinsèque de l’action, l’autre son intérêt pour l’histoire. Pour obtenir la difficulté finale, il peut simplement faire la somme de ses choix sur ces deux échelles.
 
+>> Note : si vous hésitez entre deux niveaux de difficulté sur l'une de ces échelles, prenez la valeur intermédiaire.
+
 La difficulté intrinsèque représente la difficulté « objective » dans l’univers de jeu. Elle ne doit pas être estimée en fonction des compétences ou capacités du personnage, mais de façon absolue. Il peut toutefois tenir compte de la façon dont compte s’y prendre votre personnage si vous l’avez indiqué.
 
 Échelle de difficulté intrinsèque :
@@ -56,6 +58,7 @@ L’intérêt scénaristique est évalué sur l’intérêt du résultat de l’
 Notez que si le meneur juge une action impossible (ou triviale), il ne fait pas faire un jet de dés : l’action échoue (ou réussie) automatiquement sans Effet secondaire. Ce sera aussi le cas si le score à battre par le joueur est supérieur à 5 ou inférieur à 1.
 
 *Exemple : Nicolas qui joue Downlink souhaite pirater le cerveau électronique d’un des robots de sécurité que Razors a abattus. Justine, la meneuse, estime qu’il s’agit d’une action Complexe (0) car elle demande un minimum de spécialisation mais ne devrait pas être trop difficile pour un spécialiste. Elle estime aussi que la réussite est intéressante (+2) car cette action pourra ouvrir de nouvelles pistes aux personnages. Le score de la difficulté est donc de 2 (0+2).*
+
 
 ## Choix des éléments
 
