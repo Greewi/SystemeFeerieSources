@@ -28,7 +28,7 @@ Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps dé
 
 >> Si tout ceci vous semble encore nébuleux, voici un court extrait d’une partie de jeu de rôles.
 >>
->> Justine, Albert, Nicolas et Sophie jouent à une partie de *Solaires*. *Alors que leurs personnages enquêtent sur d’étranges enlèvements, ils pénètrent dans l’habitation de leur principal suspect.*
+>> Justine, Albert, Nicolas et Sophie jouent une partie de *Solaires*. *Alors que leurs personnages enquêtent sur d’étranges enlèvements, ils pénètrent dans l’habitation de leur principal suspect.*
 >>
 >> *– Justine (Meneuse du jeu) : en entrant dans l’appartement, vous remarquez qu’il a été complètement mis en désordre.*
 >>
