@@ -103,7 +103,7 @@ De plus, si vous aviez indiqué un état handicapant au moment de choisir les é
 
 Une fois l’action résolue, le meneur peut décrire les conséquences de l’action. Généralement, cela consiste à acter ce qui avait été déterminé au moment de déclarer l’action.
 
-Des effets secondaires peuvent survenir, mais ils ne doivent pas remettre en question la réussite ou l’échec de l’action ni la moduler directement. Généralement, leur possibilité sera annoncée par le meneur avant de lancer les dés, mais il peut s’agit d’une surprise.
+Des effets secondaires peuvent survenir, mais ils ne doivent pas remettre en question la réussite ou l’échec de l’action ni la moduler directement. Généralement, leur possibilité sera annoncée par le meneur avant de lancer les dés, mais il peut s’agir d’une surprise.
 
 Voici quelques exemples d’effets secondaires en défaveur des PJ :
 * **plus de ressources consommées** : le personnage a perdu beaucoup de temps, il a endommagé ses outils, il a utilisé trop de munitions, etc. ;
