@@ -1,0 +1,41 @@
+{
+	"sitename" : "Système Féerie",
+	"template" : "feerieNetwork",
+	"domain" : "systeme.feerie.net",
+	"map" : {
+		"/" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Système Féerie", "notoc" : true },
+
+		"/Système Féerie V5" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Système Féerie (v5)", "book" : true },
+		"/Système Féerie V5/0 - Introduction" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Introduction" },
+		"/Système Féerie V5/1 - Règles générales" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Règles générales" },
+		"/Système Féerie V5/2 - Résolution des actions" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Résolution des actions" },
+		"/Système Féerie V5/3 - États" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "États" },
+		"/Système Féerie V5/4 - Modifications scénaristiques" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Modifications scénaristiques" },
+		"/Système Féerie V5/5 - Création des personnages" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Création des personnages" },
+		"/Système Féerie V5/6 - Évolution des personnages" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Évolution des personnages" },
+		"/Système Féerie V5/7 - Adapter le système" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Adapter le système" },
+
+		"/Système Féerie V3" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Système Féerie (v3)", "book" : true },
+		"/Système Féerie V3/Introduction" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Introduction" },
+		"/Système Féerie V3/Création des personnages" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Création des personnages" },
+		"/Système Féerie V3/Résolution des actions" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Résolution des actions" },
+		"/Système Féerie V3/Points de personnage" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Points de personnage" },
+
+		"/Système Féerie V2" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Système Féerie (v2)", "book" : true },
+		"/Système Féerie V2/Introduction" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Introduction" },
+		"/Système Féerie V2/Création d'un personnage" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Création d'un personnage" },
+		"/Système Féerie V2/Règles de base" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Règles de base" },
+		"/Système Féerie V2/Règles optionnelles" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Règles optionnelles" },
+		"/Système Féerie V2/Une liste de compétences" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Une liste de compétences" },
+
+		"/Système Féerie V1" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Système Féerie (v1)", "book" : true },
+		"/Système Féerie V1/Créer un personnage" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Créer un personnage" },
+		"/Système Féerie V1/Règles en jeu" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Règles en jeu" },
+		"/Système Féerie V1/Adapter le système" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Adapter le système" },
+		"/Système Féerie V1/Compétences" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Compétences" },
+
+		"/Adaptations" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Adaptations" },
+		"/Féerie" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Féerie l'autre monde" },
+		"/Contacts" : { "type" : "article", "template" : "article", "theme" : "feerie", "title" : "Contacts" }
+	}
+}
